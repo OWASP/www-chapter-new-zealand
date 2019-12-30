@@ -852,7 +852,7 @@ Here](http://www.meetup.com/OWASP-New-Zealand-Chapter/events/154075992/)
 
 At the Auckland Business School
 
-[<https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2013>](OWASP_New_Zealand_Day_2013 "wikilink")
+[<https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2013>](OWASP_New_Zealand_Day_2013 )
 
   - 22 May 2013
 
@@ -883,7 +883,7 @@ Day 2012](https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2012)
     Drive](http://www.webdrive.co.nz)
     **Location:** Auckland
     **Event site:** [OWASP New Zealand Day
-    2012](OWASP_New_Zealand_Day_2012 "wikilink")
+    2012](OWASP_New_Zealand_Day_2012 )
 
 <!-- end list -->
 
@@ -893,7 +893,7 @@ Day 2012](https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2012)
     [Touchpoint](http://www.touchpoint.co.nz)
     **Locations:** Wellington, Auckland
     **Presentation:** [An Overview and introduction to modern day
-    BeEF](https://www.owasp.org/images/e/e0/Owasp2012-MarkPiper.pdf)
+    BeEF](/www-pdf-archive/Owasp2012-MarkPiper.pdf)
     **Presented By:** Mark Piper, Insomnia Security
 
 <!-- end list -->
@@ -904,12 +904,12 @@ Day 2012](https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2012)
     [Touchpoint](http://www.touchpoint.co.nz)
     **Locations:** Wellington, Auckland
     **Presentation:** [Introduction to the OWASP Top Ten -
-    Part 3](https://www.owasp.org/images/2/27/OWASP_Top_10-7_to_10-aj.pdf)
+    Part 3](/www-pdf-archive/OWASP_Top_10-7_to_10-aj.pdf)
     **Presented By:** Adrian Hayes, Security Consultant
     (Security-Assessment.com)
     **Presentation:** [Mistaken Identity: How Not To Build A Password
     Reset
-    Process](https://www.owasp.org/images/0/08/OWASP-Mistaken_Identity-Password_Reset-nickf.pdf)
+    Process](/www-pdf-archive/OWASP-Mistaken_Identity-Password_Reset-nickf.pdf)
     **Presented By:** Nick Freeman, Senior Security Consultant
     (Security-Assessment.com)
 
@@ -921,11 +921,11 @@ Day 2012](https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2012)
     [Touchpoint](http://www.touchpoint.co.nz)
     **Locations:** Wellington, Auckland
     **Presentation:** [Introduction to the OWASP Top Ten -
-    Part 2](https://www.owasp.org/images/6/6d/OWASP_NZ-DEC2011-OWASP_Top_10-4_to_6.pdf)
+    Part 2](/www-pdf-archive/OWASP_NZ-DEC2011-OWASP_Top_10-4_to_6.pdf)
     **Presented By:** Adrian Hayes, Security Consultant
     (Security-Assessment.com)
     **Presentation:** [Hardened
-    Hosting](https://www.owasp.org/images/1/15/OWASP_NZ-DEC2011-Hardened_Hosting.pdf)
+    Hosting](/www-pdf-archive/OWASP_NZ-DEC2011-Hardened_Hosting.pdf)
     **Presented By:** Quintin Russ, Technical Director (SiteHost)
 
 <!-- end list -->
@@ -935,11 +935,11 @@ Day 2012](https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2012)
     [Security-Assessment.com](http://security-assessment.com)
     **Locations:** Wellington, Auckland
     **Presentation:** [Introduction to the OWASP Top Ten -
-    Part 1](https://www.owasp.org/images/c/cf/OWASP_NZ_SEP2011_TOP-10_1-of-3.pdf)
+    Part 1](/www-pdf-archive/OWASP_NZ_SEP2011_TOP-10_1-of-3.pdf)
     **Presented By:** Nick Freeman, Security Consultant
     (Security-Assessment.com)
     **Presentation:** [Clickjacking for
-    Shells](https://www.owasp.org/images/3/31/OWASP_NZ_SEP2011_Clickjacking-for-shells_PDF-version.pdf)
+    Shells](/www-pdf-archive/OWASP_NZ_SEP2011_Clickjacking-for-shells_PDF-version.pdf)
     **Presented By:** Andrew Horton, Security Consultant
     (Security-Assessment.com)
 
@@ -957,7 +957,7 @@ Day 2012](https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2012)
     **Presentations:**
     [Download](http://www.owasp.org/index.php/OWASP_New_Zealand_Day_2011#tab=Speakers)
     **Event site:** [OWASP New Zealand Day
-    2011](OWASP_New_Zealand_Day_2011 "wikilink")
+    2011](OWASP_New_Zealand_Day_2011 )
 
 <!-- end list -->
 
@@ -990,7 +990,7 @@ Day 2012](https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2012)
     **Presentations:**
     [Download](http://www.owasp.org/index.php/OWASP_New_Zealand_Day_2010#tab=Presentations)
     **Event site:** [OWASP New Zealand Day
-    2010](OWASP_New_Zealand_Day_2010 "wikilink")
+    2010](OWASP_New_Zealand_Day_2010 )
 
 <!-- end list -->
 
@@ -1030,7 +1030,7 @@ Day 2012](https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2012)
     **Presentations:**
     [Download](http://www.owasp.org/index.php/OWASP_New_Zealand_Day_2009#tab=Presentations)
     **Event site:** [OWASP New Zealand Day
-    2009](OWASP_New_Zealand_Day_2009 "wikilink")
+    2009](OWASP_New_Zealand_Day_2009 )
 
 <!-- end list -->
 
@@ -1237,4 +1237,4 @@ by OWASP NZ members:
 
 <headertabs></headertabs>
 
-[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
+[Category:OWASP Chapter](Category:OWASP_Chapter )
