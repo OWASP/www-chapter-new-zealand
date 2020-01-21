@@ -2,45 +2,67 @@
 
 layout: col-sidebar
 title: OWASP New Zealand
-tags: example-tag
-level: 0
+tags: owaspnz
+currency: nzd
 
 region: Asia/Pacific
 
-auto-migrated: 1
-
 ---
 
+## OWASP New Zealand
 
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+Welcome to the OWASP New Zealand Chapter home page.
 
-{front matter for this file}
+The OWASP New Zealand Chapter has been active since 2007. In addition to our annual [OWASP New Zealand Day](https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2020) conference, we organise local Meetups and training events throughout the year.
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
+The chapter leaders are [Kim Carter](mailto:kim.carter@owasp.org) (Christchurch), [Kirk Jackson](mailto:kirk.jackson@owasp.org)
+(Wellington), and [John DiLeo](mailto:john.dileo@owasp.org) (Auckland).
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
+### Keeping in Touch
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+  - Chapter Mailing List (Google Groups):
+    [New-Zealand-Chapter@owasp.org](mailto:new-zealand-chapter@owasp.org)
+    - [Join the
+    Group](https://groups.google.com/a/owasp.org/forum/#!forum/new-zealand-chapter/join)
+  - [InfoSecNZ Workspace](https://infosecnz.slack.com) on Slack - Be
+    sure to join the \#events channel for calendar notices (NOTE: By
+    design, we do not maintain a separate Slack Workspace for the New
+    Zealand chapter)
+  - Follow us on [Twitter](https://www.twitter.com/owaspnz) (@owaspnz)
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+### Some Global OWASP Resources:
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
+  - [Directory of OWASP's Google
+    Groups](https://groups.google.com/a/owasp.org/forum/?hl=en#!forumsearch/)
+  - [OWASP Workspace](https://owasp.slack.com) on Slack
 
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
+### Call For Speakers
+
+Our Call For Speakers is always open. If you would like to present a talk relevant to Application Security at a future OWASP New Zealand Chapter Meetup, review the [speaker agreement](/www-policy/speaker-agreement) and send your proposed talk title, abstract, and a brief speaker bio to the Chapter Leader(s) in the city(ies) where you'd like to present.
+
+### Call for Organisers
+
+OWASP New Zealand currently has active Meetups in three cities - Auckland, Christchurch, and Wellington. If you're interested in helping organise one of our Meetups, please contact the Chapter Leader in that city.
+
+If you are located in another New Zealand city, and would be willing and able to host a Meetup there (at least four times per year), then we'd love to hear from you.
+
+### The OWASP New Zealand Board
+
+We are always looking for additional board members to evangelise OWASP and its mission, and to help help with meetings, projects, and initiatives. As we all know, it takes lots of time and effort to run a chapter. Please contact us if you are interested in joining the OWASP New Zealand board, would like to volunteer to help out or create a new Meetup/event, or for any queries related to OWASP NZ.
+
+## Upcoming Events
+
+### 2020
+
+
+
+## OWASP Statement on Participation
+
+The Open Web Application Security Project (OWASP) - managed by the non-profit OWASP Foundation - works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+
+Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorised online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+
+Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Workspace](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
 
 ```
 {info.md}
