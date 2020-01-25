@@ -5,7 +5,7 @@ title: OWASP New Zealand
 tags: owaspnz
 currency: nzd
 
-region: Asia/Pacific
+region: Oceania
 
 ---
 
