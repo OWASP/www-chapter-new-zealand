@@ -48,7 +48,7 @@ If you are located in another New Zealand city, and would be willing and able to
 
 ### The OWASP New Zealand Board
 
-We are always looking for additional board members to evangelise OWASP and its mission, and to help help with meetings, projects, and initiatives. As we all know, it takes lots of time and effort to run a chapter. Please contact us if you are interested in joining the OWASP New Zealand board, would like to volunteer to help out or create a new Meetup/event, or for any queries related to OWASP NZ.
+We are always looking for additional board members to evangelise OWASP and its mission, and to help with meetings, projects, and initiatives. As we all know, it takes lots of time and effort to run a chapter. Please contact us if you are interested in joining the OWASP New Zealand board, would like to volunteer to help out or create a new Meetup/event, or for any queries related to the OWASP New Zealand Chapter.
 
 ## Upcoming Events
 
