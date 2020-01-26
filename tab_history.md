@@ -154,70 +154,63 @@ Registration fee: $500.00
 
 **2 October**
 
-[Wellington Meetup](https://www.meetup.com/OWASP-Wellington/events/242968218/)   
-**Presentation:** Same-origin policy: The core of web security
-**Video:** [https://www.youtube.com/watch?v=5wFCRANIbdc]
-**Location:** Wellington
-**Presented By:** Kirk Jackson
-<hr />
+[Wellington Meetup - October 2017](https://www.meetup.com/OWASP-Wellington/events/242968218/)     
+**Presentation:** Same-origin policy: The core of web security - Kirk Jackson  
+**Video:** [https://www.youtube.com/watch?v=5wFCRANIbdc](https://www.youtube.com/watch?v=5wFCRANIbdc)  
+**Location:** Wellington  
 
-; 27 Sept 2017
-[https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/241328587/ Christchurch Meetup]
-**Securing your data (your business) using SQL Server 2016**
-**Presented By:** [https://twitter.com/shantha05 Anupama Natarajan]
+**27 September**
+
+[Christchurch Meetup - September 2017](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/241328587/)     
+**Securing your data (your business) using SQL Server 2016**  
+**Presented By:** [Anupama Natarajan](https://twitter.com/shantha05)   
+**Location:** Christchurch  
+**Co-Sponsor:** [Catalyst](http://www.catalyst.net.nz/)
+
+**31 July**
+
+[Wellington Meetup - July 2017](https://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/241187473/)   
+**Presentation:** What is Cross-Site Request Forgery? - Vales Bakaitis  
+**Video:** [https://www.youtube.com/watch?v=G1aLGaMqnm0](https://www.youtube.com/watch?v=G1aLGaMqnm0)
+**Location:** Wellington  
+
+**28 June**
+[Christchurch Meetup - June 2017](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/236349292/)   
+**Web Developer Quiz Night**  
+**Prepared and Presented By:** [https://twitter.com/binarymist Kim Carter]  
+**Details:** [on binarymist.io](https://binarymist.io/talk/owaspnz-chch-meetup-workshop-quiz-night/)   
 **Location:** Christchurch
-**Co-Sponsor:** [http://www.catalyst.net.nz/ Catalyst]
-<hr />
+**Co-Sponsor:** [Catalyst](http://www.catalyst.net.nz/)
 
-; 31 July 2017
-[https://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/241187473/ Wellington Meetup]
-**Presentation:** What is Cross-Site Request Forgery?
-**Video:** [https://www.youtube.com/watch?v=G1aLGaMqnm0]
+**29 May**
+[Wellington Meetup - May 2017](https://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/239202702/)   
+**Presentation:** Developer's Guide to Preventing XSS - Felix Shi    
+**Video:** [https://www.youtube.com/watch?v=0J5Rpf3nNjU](https://www.youtube.com/watch?v=0J5Rpf3nNjU)  
+**Location:** Wellington  
+
+**19 - 20 April**
+
+[![OWASP NZ Day 2017 - Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2017.jpg)](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2017)
+
+[OWASP New Zealand Day 2017](https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2017) - University of Auckland Business School  
+* One-day conference, with two tracks, on Thursday, 20 April - FREE Registration
+* Pre-Conference Training, Wednesday, 19 April - Half-day and full-day classes offered
+
+**29 March**
+
+[Christchurch Meetup - March 2017](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/236349292/)   
+**PHP Hurts Programmers (and other tales)** - [Keith Humm](https://twitter.com/spronkey)  
+**Slides:** [on speakerdeck](https://speakerdeck.com/spronkey/php-hurts-programmers-and-other-tales)   
+**Locations:** Christchurch  
+**Co-Sponsor:** [Catalyst](http://www.catalyst.net.nz/)
+
+
+**27 February**
+
+[Wellington Meetup - February 2017](https://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/237712167/)     
+**Presentation:** Building the ultimate login and signup - Matt Cotterell   
+**Video:** [https://www.youtube.com/watch?v=E25KxLKwY-M](https://www.youtube.com/watch?v=E25KxLKwY-M)  
 **Location:** Wellington
-**Presented By:** Vales Bakaitis
-<hr />
-
-; 28 June 2017
-[https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/236349292/ Christchurch Meetup]
-**Web Developer Quiz Night**
-**Prepared and Presented By:** [https://twitter.com/binarymist Kim Carter]
-**Details:** [https://binarymist.io/talk/owaspnz-chch-meetup-workshop-quiz-night/ on binarymist.io]
-**Location:** Christchurch
-**Co-Sponsor:** [http://www.catalyst.net.nz/ Catalyst]
-<hr />
-
-; 29 May 2017
-[https://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/239202702/ Wellington Meetup]
-**Presentation:** Developer's Guide to Preventing XSS
-**Video:** [https://www.youtube.com/watch?v=0J5Rpf3nNjU]
-**Location:** Wellington
-**Presented By:** Felix Shi
-<hr />
-
-[https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2017 https://www.owasp.org/images/6/63/OWASP_NZ_Day_2017_logo.jpg]<br />
-**19 - 20 April 2017**
-
-[https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2017 OWASP New Zealand Day 2017] - University of Auckland Business School
-: One-day conference, with two tracks on Thursday, 20 April - Registration is FREE
-: Training sessions (half-day and full-day) on Wednesday, 19 April
-<hr />
-
-; 29 March 2017
-[https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/236349292/ Christchurch Meetup]
-**PHP Hurts Programmers (and other tales)**
-**Presented By:** [https://twitter.com/spronkey Keith Humm]
-**Slides:** [https://speakerdeck.com/spronkey/php-hurts-programmers-and-other-tales on speakerdeck]
-**Locations:** Christchurch
-**Co-Sponsor:** [http://www.catalyst.net.nz/ Catalyst]
-<hr />
-
-; 27 Feb 2017
-[https://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/237712167/ Wellington Meetup]
-**Presentation:** Building the ultimate login and signup
-**Video:** [https://www.youtube.com/watch?v=E25KxLKwY-M Youtube]
-**Location:** Wellington
-**Presented By:** Matt Cotterell
-<hr />
 
 ### 2016
 
