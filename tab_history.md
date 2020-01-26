@@ -14,7 +14,7 @@ tags: owaspnz
 **10 December**
 
 [Auckland Meetup - December 2019](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/257141559/)   
-**Secure Coding Tournament:** Hosted by Jeanette Gill, Secure Code Warrior  
+**Secure Coding Tournament:** Hosted by Jeanette Gill, [Secure Code Warrior](https://securecodewarrior.com/)  
 **Location:** Orion Health, 181 Grafton Road, Grafton, Auckland
 
 **8 October**
@@ -22,6 +22,7 @@ tags: owaspnz
 [Auckland Meetup - October 2019](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/257141543/)  
 **Top Ten Discussion:** A6 - Security Misconfiguration  - Led by James Ting-Edwards  
 **Presentation:** What's In a Name? Law of Agency and Domain Name Registrations - Judy Ting-Edwards  
+**Event Sponsor and Host:** [Middleware NZ](https://www.middleware.co.nz/#/)
 **Venue Host:** Simon White  
 **Location:** Middleware NZ, 104 Quay Street, CBD, Auckland
 
@@ -54,6 +55,7 @@ OWASP NZ is proud to invite you to our first [security.ac.nz](https://security.a
 [Auckland Meetup - June 2019](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/257141477/)   
 **Top Ten Discussion:** A5 - Broken Access Control - Led by John DiLeo  
 **Technical Topic:** My Recent Adventures at OWASP Conferences - John DiLeo  
+**Event Sponsor and Host:** [Robert Walters](https://www.robertwalters.co.nz/)
 **Location:** Robert Walters, Level 9, 22 Fanshawe Street, CBD, Auckland
 
 **9 April**
@@ -86,12 +88,12 @@ Registration fees: $250.00 for half-day classes; $500.00 for full-day classes
 [Wellington Meetup - October 2018](https://www.meetup.com/OWASP-Wellington/events/255158934/)   
 **Presentation:** Make the Cyber Safer with Multi-factor Authentication - Kevin Thomas  
 **Video:** [https://www.youtube.com/watch?v=lAkw24tClvQ](https://www.youtube.com/watch?v=lAkw24tClvQ)    
-**Location:** Wellington  
 
 **9 October**
 
 [Auckland Meetup - October 2018](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/255158934/)   
 **Technical Topic:** Integrating the Weakforced Security API - Steve Shipway, SMX Email  
+**Event Sponsor and Host:** [Cornerstone On-Demand](https://www.cornerstoneondemand.com/)  
 **Location:** Cornerstone On-Demand, Level 1, 29 Union Street, Auckland
 
 **27 August**
@@ -99,7 +101,6 @@ Registration fees: $250.00 for half-day classes; $500.00 for full-day classes
 [Wellington Meetup - August 2018](https://www.meetup.com/OWASP-Wellington/events/253077472/)   
 **Presentation:** Developer's guide to Deserialization Attack - Felix Shi  
 **Video:** [https://www.youtube.com/watch?v=Gi-Pk255Jyw](https://www.youtube.com/watch?v=Gi-Pk255Jyw)  
-**Location:** Wellington
 
 **14 August**
 
@@ -112,13 +113,13 @@ Registration fees: $250.00 for half-day classes; $500.00 for full-day classes
 
 [Auckland Meetup - June 2018](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/mcvvmpyxgbnb/)    
 **Presentation:** GDPR and New Zealand Privacy Law - James Ting-Edwards  
-**Location:** InternetNZ, 62 Victoria Street West, Auckland CBD, Auckland  
+**Event Sponsor and Host:** [InternetNZ](https://internetnz.nz/)  
+**Location:** InternetNZ, 62 Victoria Street West, Auckland CBD, Auckland
 
 **11 June**
 
 [Wellington Meetup - June 2018](https://www.meetup.com/OWASP-Wellington/events/250629813/)   
 **Presentation:** What are certificates? - Matt Cotterell  
-**Location:** Wellington  
 
 **10 April**
 
@@ -130,16 +131,14 @@ Registration fees: $250.00 for half-day classes; $500.00 for full-day classes
 **28 March**
 
 [Christchurch Meetup - March 2018](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/241803609/)     
-**CERT NZ**  
-**Location:** Christchurch  
-**Co-Sponsor:** [Catalyst](http://www.catalyst.net.nz/)
+**Presentation:** CERT NZ  
+**Event Sponsor:** [Catalyst](http://www.catalyst.net.nz/)
 
 **26 February**
 
 [Wellington Meetup - February 2018](https://www.meetup.com/OWASP-Wellington/events/246852662/)     
-**CERT NZ - Who are we? How are websites getting hacked in real life?** - Declan Ingram  
+**Presentation:** CERT NZ - Who are we? How are websites getting hacked in real life? - Declan Ingram  
 **Video:** [https://www.youtube.com/watch?v=WhYh-eUqxIA](https://www.youtube.com/watch?v=WhYh-eUqxIA)  
-**Location:** Wellington  
 
 **4 - 5 February**
 
@@ -157,35 +156,31 @@ Registration fee: $500.00
 [Wellington Meetup - October 2017](https://www.meetup.com/OWASP-Wellington/events/242968218/)     
 **Presentation:** Same-origin policy: The core of web security - Kirk Jackson  
 **Video:** [https://www.youtube.com/watch?v=5wFCRANIbdc](https://www.youtube.com/watch?v=5wFCRANIbdc)  
-**Location:** Wellington  
 
 **27 September**
 
 [Christchurch Meetup - September 2017](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/241328587/)     
 **Presentation:** Securing your data (your business) using SQL Server 2016 - [Anupama Natarajan](https://twitter.com/shantha05)     
-**Location:** Christchurch  
-**Co-Sponsor:** [Catalyst](http://www.catalyst.net.nz/)
+**Event Sponsor:** [Catalyst](http://www.catalyst.net.nz/)
 
 **31 July**
 
 [Wellington Meetup - July 2017](https://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/241187473/)   
 **Presentation:** What is Cross-Site Request Forgery? - Vales Bakaitis  
 **Video:** [https://www.youtube.com/watch?v=G1aLGaMqnm0](https://www.youtube.com/watch?v=G1aLGaMqnm0)  
-**Location:** Wellington  
 
 **28 June**
 [Christchurch Meetup - June 2017](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/236349292/)   
 **Web Developer Quiz Night**  
-**Prepared and Presented By:** [Kim Carter](https://twitter.com/binarymist)  
-**Details:** [on binarymist.io](https://binarymist.io/talk/owaspnz-chch-meetup-workshop-quiz-night/)   
-**Location:** Christchurch  
-**Co-Sponsor:** [Catalyst](http://www.catalyst.net.nz/)
+**Prepared and Conducted By:** [Kim Carter](https://twitter.com/binarymist)  
+**Details [on binarymist.io](https://binarymist.io/talk/owaspnz-chch-meetup-2017-workshop-quiz-night/)**   
+**Event Sponsor:** [Catalyst](http://www.catalyst.net.nz/)
 
 **29 May**
+
 [Wellington Meetup - May 2017](https://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/239202702/)   
 **Presentation:** Developer's Guide to Preventing XSS - Felix Shi    
 **Video:** [https://www.youtube.com/watch?v=0J5Rpf3nNjU](https://www.youtube.com/watch?v=0J5Rpf3nNjU)  
-**Location:** Wellington  
 
 **19 - 20 April**
 
@@ -198,10 +193,9 @@ Registration fee: $500.00
 **29 March**
 
 [Christchurch Meetup - March 2017](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/236349292/)   
-**Presentation:** PHP Hurts Programmers (and other tales) - [Keith Humm](https://twitter.com/spronkey)  
-**Slides:** [on speakerdeck](https://speakerdeck.com/spronkey/php-hurts-programmers-and-other-tales)   
-**Locations:** Christchurch  
-**Co-Sponsor:** [Catalyst](http://www.catalyst.net.nz/)
+**Presentation:** PHP Hurts Programmers (and other tales) - Keith Humm ([@spronkey](https://twitter.com/spronkey))    
+**Slides:** [On Speaker Deck](https://speakerdeck.com/spronkey/php-hurts-programmers-and-other-tales)   
+**Event Sponsor:** [Catalyst](http://www.catalyst.net.nz/)
 
 
 **27 February**
@@ -213,91 +207,64 @@ Registration fee: $500.00
 
 ### 2016
 
-; 29 November 2016
-[https://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/233253214/ OWASP NZ Wellington Meetup page]
-**Presentation:** OWASP Top Ten - Developing secure web apps (PHP-flavoured)
-**Video:** [https://www.youtube.com/watch?v=7u08zCz9viU Youtube]
-**Location:** Wellington
-**Presented By:** Kirk Jackson
-: In conjunction with the [https://www.meetup.com/PHP-Usergroup-Wellington/ PHP user group Wellington]
+**29 November**
 
-; 10 October 2016
-[https://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/233954065/ OWASP NZ Wellington Meetup page]
-**Presentation:** Introduction to Ruby on Rails security
-**Video:** [https://www.youtube.com/watch?v=Hez1QYc9yo8 Youtube]
-**Locations:** Wellington
-**Presented By:** Tim Goddard
-**Sponsor:** [https://www.insomniasec.com Insomnia]
+[Wellington Meetup - November 2016](https://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/233253214/)  
+**Presentation:** OWASP Top Ten - Developing Secure Web Apps (PHP-Flavoured) - Kirk Jackson
+**Video:** [https://www.youtube.com/watch?v=7u08zCz9viU](https://www.youtube.com/watch?v=7u08zCz9viU)    
+**Event Co-Hosts:** [PHP UserGroup Wellington](https://www.meetup.com/PHP-Usergroup-Wellington/)  
 
-; 28 September 2016
-[https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/232611291/ OWASP NZ Christchurch Meetup page]
-**Presentation / Demo** Applying Cold War Learnings to our Daily OPSEC
-**DeadDrop:** (https://deaddrop.jadeworld.com/)
-**Github:** (https://github.com/phage-nz/deaddrop)
-**Chris's Blog Post:** (https://bytefog.blogspot.co.nz/2015/09/burn-after-reading.html)
-**Locations:** Christchurch
-**Presented By:** [https://twitter.com/phage_nz Chris Campbell]
-**Co-Sponsor:** [http://www.catalyst.net.nz/ Catalyst] and [http://blog.binarymist.net/ BinaryMist]
+**10 October**
 
-; 29 August 2016
-[https://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/232212284/ OWASP NZ Wellington Meetup page]
-**Presentation:** Mobile app security: Intro to the OWASP Mobile Top 10
-**Video:** [https://www.youtube.com/watch?v=SbXO6wNvOM4 Youtube]
-**Location:** Wellington
-**Presented By:** Mike Haworth
+[Wellington Meetup - October 2016](https://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/233954065/)   
+**Presentation:** Introduction to Ruby on Rails security - Tim Goddard  
+**Video:** [https://www.youtube.com/watch?v=Hez1QYc9yo8](https://www.youtube.com/watch?v=Hez1QYc9yo8)  
+**Event Sponsor:** [Insomnia Security Specialists](https://www.insomniasec.com)  
 
-; 29 June 2016
-[http://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/229985413/ OWASP NZ Christchurch Meetup page]
-**Presentation / Demo** Security Regression Testing with ZapAPI and NodeGoat
-**Teaser:** (https://youtu.be/DrwXUOJWMoo)
-**Github:** (https://github.com/binarymist/NodeGoat/wiki/Security-Regression-Testing-with-Zap-API)
-**Sourced From:** Kims Book (https://leanpub.com/holistic-infosec-for-web-developers/read#process-agile-development-and-practices-security-regression-testing)
-**Locations:** Christchurch
-**Presented By:** [https://twitter.com/binarymist Kim Carter]
-**Co-Sponsor:** [http://www.catalyst.net.nz/ Catalyst] and [http://blog.binarymist.net/ BinaryMist]
+**28 September**
 
-; 27 June 2016
-[http://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/232017285/ OWASP NZ Wellington Meetup page]
-**Presentation:** Introduction to using a web application firewall
-**Video:** [https://www.youtube.com/watch?v=iAPFf9Iqwos Youtube]
-**Location:** Wellington
-**Presented By:** Graeme Neilson
-**Sponsor:** [https://www.redshield.co RedShield]
+[Christchurch Meetup - September 2016](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/232611291/)  
+**Presentation and Demo:** Applying Cold War Learnings to our Daily OPSEC - Chris Campbell ([@phage_nz](https://twitter.com/phage_nz))
+**DeadDrop:** [https://deaddrop.jadeworld.com/](https://deaddrop.jadeworld.com/)
+**Github Repo:** [https://github.com/phage-nz/deaddrop](https://github.com/phage-nz/deaddrop)
+**Event Sponsors:** [Catalyst](http://www.catalyst.net.nz/) and [BinaryMist](https://binarymist.io/)
 
-; 30 March 2016
-[http://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/226227782/ OWASP NZ Christchurch Meetup page]
-**Presentation:** Qubes OS Discussion (https://www.qubes-os.org)
-**Locations:** Christchurch
-**Presented By:** Craig Rowland
-**Co-Sponsor:** [http://www.dimensiondata.com/en-NZ Dimension Data] and [http://binarymist.io/ BinaryMist Limited]
+**29 August**
 
-;3rd and 4th of February 2016
+[Wellington Meetup - August 2016](https://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/232212284/)  
+**Presentation:** Mobile App Security: Introduction to the OWASP Mobile Top 10 - Mike Haworth  
+**Video:** [https://www.youtube.com/watch?v=SbXO6wNvOM4](https://www.youtube.com/watch?v=SbXO6wNvOM4)  
 
-[https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2016 https://www.owasp.org/images/2/23/OWASP_NZ_Day_2016_logo.jpg]<br><br>
+**29 June**
 
-At the University of Auckland School of Commerce
+[Christchurch Meetup -June 2016](http://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/229985413/)  
+**Presentation and Demo** Security Regression Testing with ZapAPI and NodeGoat - Kim Carter ([@binarymist)[https://twitter.com/binarymist))
+**Teaser Video:** [https://youtu.be/DrwXUOJWMoo](https://youtu.be/DrwXUOJWMoo)  
+**Github Repo:** [https://github.com/binarymist/NodeGoat/wiki/Security-Regression-Testing-with-Zap-API](https://github.com/binarymist/NodeGoat/wiki/Security-Regression-Testing-with-Zap-API)  
+**Source Material:** Kim's Book, *[Holistic InfoSec for Web Developers](https://leanpub.com/holistic-infosec-for-web-developers/read#process-agile-development-and-practices-security-regression-testing)*  
+**Event Sponsors:** [http://www.catalyst.net.nz/ Catalyst] and [http://blog.binarymist.net/ BinaryMist]
 
-**Gold Sponsors:**
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td><center>[[File:INSOMNIA.PNG|center|300px|link=http://www.insomniasec.com/]]</center></td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td><center>[[File:RedShield.png|center|300px|link=https://auraredshield.com/]]</center></td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td><center>[http://www.security-assessment.com https://www.owasp.org/images/4/41/SA_Logo_w_DD.gif]</center></td>
-  </tr>
-  <tr>
-    <td><center>[http://www.insomniasec.com Insomnia Security]</center></td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td><center>[https://auraredshield.com/ Aura RedShield]</center></td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td><center>[http://www.security-assessment.com www.security-assessment.com]</center></td>
-  </tr>
-</table>
+**27 June**
+
+[Wellington Meetup - June 2016](http://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/232017285/)  
+**Presentation:** Introduction to Using a Web Application Firewall (WAF) - Graeme Neilson
+**Video:** [https://www.youtube.com/watch?v=iAPFf9Iqwos](https://www.youtube.com/watch?v=iAPFf9Iqwos)  
+**Event Sponsor:** [RedShield](https://www.redshield.co)
+
+**30 March**
+
+[Christchurch Meetup - March 2016](http://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/226227782/)    
+**Presentation:** Discussion of [Qubes OS](https://www.qubes-os.org) - Craig Rowland  
+**Event Sponsors:** [Dimension Data](https://www.dimensiondata.com/en) and [BinaryMist](https://binarymist.io/)   
+
+**3-4 February**
+
+[![OWASP NZ Day 2016 - Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2016.jpg)](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2016) 
+
+[OWASP New Zealand Day 2016](https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2016) - University of Auckland School of Commerce
+
+* One-day conference, with two tracks in the afternoon, on Thursday, 4 February - FREE Registration
+* Pre-Conference Training, Wednesday, 3 February - One class offered  
 
 ### 2015
 
