@@ -25,6 +25,7 @@ The chapter leaders are [Kim Carter](mailto:kim.carter@owasp.org) (Christchurch)
 * [OWASP New Zealand Chapter-Auckland](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/) 
 * [OWASP New Zealand Chapter-Christchurch](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/) 
 * [OWASP New Zealand Chapter-Wellington](https://www.meetup.com/OWASP-Wellington/)
+---
 
 **19 - 21 February 2020**
 
@@ -32,18 +33,21 @@ The chapter leaders are [Kim Carter](mailto:kim.carter@owasp.org) (Christchurch)
 
 **[OWASP New Zealand Day 2020](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2020)** - University of Auckland School of Business
 * One-day conference, with three tracks, on Friday, 21 February - [Conference Registration](https://owaspnz2020.eventbrite.com) is FREE
-* Pre-Conference Training, Wednesday and Thursday, 19-20 February - Nine classes on offer [Training Registration](https://owaspnz2020-training.eventbrite.com) closes 12 February.
+* Pre-Conference Training, Wednesday and Thursday, 19-20 February - Nine classes on offer  
+[Training Registration](https://owaspnz2020-training.eventbrite.com) closes 12 February  
 Registration fees: $325.00 for half-day classes; $625.00 for one-day classes; $1250.00 for two-day classes (plus EventBrite fees)
+---
 
 **10 February 2020**
 
 [Wellington Meetup](https://www.meetup.com/OWASP-Wellington/events/268151993/) 
 
-**Presentation:** Introduction to the OWASP Top Ten - Kirk Jackson
-**When:** Monday, 10 February; Gather at 5:30 p.m.; Talk starts at 6:00 p.m. 
-**Location:** RedShield House, 79 Boulcott St., Wellington
-**YouTube Live Stream:** https://www.youtube.com/watch?v=bZgjUXAjNao
-<hr />
+**Presentation:** Introduction to the OWASP Top Ten - Kirk Jackson  
+**When:** Monday, 10 February; Gather at 5:30 p.m.; Talk starts at 6:00 p.m.  
+**Location:** RedShield House, 79 Boulcott St., Wellington  
+**YouTube Live Stream:** (https://www.youtube.com/watch?v=bZgjUXAjNao)
+---
+
 ### Keeping in Touch
 
   - Chapter Mailing List (Google Groups):
