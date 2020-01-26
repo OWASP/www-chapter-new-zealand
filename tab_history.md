@@ -79,7 +79,7 @@ Registration fees: $250.00 for half-day classes; $500.00 for full-day classes
 [Auckland Meetup - December 2018](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/249448666/)   
 **Top Ten Discussion:** A2 - Broken Authentication - Led by John DiLeo  
 **Technical Topic:** Some Thoughts on Threat Modelling - John DiLeo  
-**Location:** Orion Health, [https://www.google.co.nz/maps/place/181+Grafton+Rd,+Grafton,+Auckland+1010 181 Grafton Road, Grafton, Auckland]
+**Location:** Orion Health, 181 Grafton Road, Grafton, Auckland  
 
 **29 October**
 
@@ -98,7 +98,7 @@ Registration fees: $250.00 for half-day classes; $500.00 for full-day classes
 
 [Wellington Meetup - August 2018](https://www.meetup.com/OWASP-Wellington/events/253077472/)   
 **Presentation:** Developer's guide to Deserialization Attack - Felix Shi  
-**Video:** [https://www.youtube.com/watch?v=Gi-Pk255Jyw]  
+**Video:** [https://www.youtube.com/watch?v=Gi-Pk255Jyw](https://www.youtube.com/watch?v=Gi-Pk255Jyw)  
 **Location:** Wellington
 
 **14 August**
@@ -122,7 +122,7 @@ Registration fees: $250.00 for half-day classes; $500.00 for full-day classes
 
 **10 April**
 
-[Auckland Meetup - April 2018](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/mcvvmpyxgbnb/   
+[Auckland Meetup - April 2018](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/mcvvmpyxgbnb/)   
 **Top Ten Discussion:** A1 - Injection - Led by John DiLeo  
 **Presentation:** OWASP Software Assurance Maturity Model (SAMM) - John DiLeo  
 **Location:** Orion Health, 181 Grafton Road, Grafton, Auckland
@@ -130,9 +130,9 @@ Registration fees: $250.00 for half-day classes; $500.00 for full-day classes
 **28 March**
 
 [Christchurch Meetup - March 2018](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/241803609/)     
-;**CERT NZ**  
-;**Location:** Christchurch  
-;**Co-Sponsor:** [Catalyst](http://www.catalyst.net.nz/)
+**CERT NZ**  
+**Location:** Christchurch  
+**Co-Sponsor:** [Catalyst](http://www.catalyst.net.nz/)
 
 **26 February**
 
@@ -141,21 +141,20 @@ Registration fees: $250.00 for half-day classes; $500.00 for full-day classes
 **Video:** [https://www.youtube.com/watch?v=WhYh-eUqxIA](https://www.youtube.com/watch?v=WhYh-eUqxIA)  
 **Location:** Wellington  
 
-[https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2018 https://www.owasp.org/images/5/53/NZ_day_2018_web.jpg]<br><br>
-
 **4 - 5 February**
 
 [![OWASP NZ Day 2018 - Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2018.jpg)](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2018)
 
 [OWASP New Zealand Day 2018](https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2018) - University of Auckland Business School  
-* One-day conference, with two tracks, on Monday, 5 February - Registration is FREE
+* One-day conference, with two tracks, on Monday, 5 February - FREE Registration
 * Pre-Conference Training, Sunday, 3 February - One class offered  
 Registration fee: $500.00
 
 ### 2017
 
-; 2 Oct 2017
-[https://www.meetup.com/OWASP-Wellington/events/242968218/ Wellington Meetup]
+**2 October**
+
+[Wellington Meetup](https://www.meetup.com/OWASP-Wellington/events/242968218/)   
 **Presentation:** Same-origin policy: The core of web security
 **Video:** [https://www.youtube.com/watch?v=5wFCRANIbdc]
 **Location:** Wellington
