@@ -162,8 +162,7 @@ Registration fee: $500.00
 **27 September**
 
 [Christchurch Meetup - September 2017](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/241328587/)     
-**Securing your data (your business) using SQL Server 2016**  
-**Presented By:** [Anupama Natarajan](https://twitter.com/shantha05)   
+**Presentation:** Securing your data (your business) using SQL Server 2016 - [Anupama Natarajan](https://twitter.com/shantha05)     
 **Location:** Christchurch  
 **Co-Sponsor:** [Catalyst](http://www.catalyst.net.nz/)
 
@@ -171,15 +170,15 @@ Registration fee: $500.00
 
 [Wellington Meetup - July 2017](https://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/241187473/)   
 **Presentation:** What is Cross-Site Request Forgery? - Vales Bakaitis  
-**Video:** [https://www.youtube.com/watch?v=G1aLGaMqnm0](https://www.youtube.com/watch?v=G1aLGaMqnm0)
+**Video:** [https://www.youtube.com/watch?v=G1aLGaMqnm0](https://www.youtube.com/watch?v=G1aLGaMqnm0)  
 **Location:** Wellington  
 
 **28 June**
 [Christchurch Meetup - June 2017](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/236349292/)   
 **Web Developer Quiz Night**  
-**Prepared and Presented By:** [https://twitter.com/binarymist Kim Carter]  
+**Prepared and Presented By:** [Kim Carter](https://twitter.com/binarymist)  
 **Details:** [on binarymist.io](https://binarymist.io/talk/owaspnz-chch-meetup-workshop-quiz-night/)   
-**Location:** Christchurch
+**Location:** Christchurch  
 **Co-Sponsor:** [Catalyst](http://www.catalyst.net.nz/)
 
 **29 May**
@@ -199,7 +198,7 @@ Registration fee: $500.00
 **29 March**
 
 [Christchurch Meetup - March 2017](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/236349292/)   
-**PHP Hurts Programmers (and other tales)** - [Keith Humm](https://twitter.com/spronkey)  
+**Presentation:** PHP Hurts Programmers (and other tales) - [Keith Humm](https://twitter.com/spronkey)  
 **Slides:** [on speakerdeck](https://speakerdeck.com/spronkey/php-hurts-programmers-and-other-tales)   
 **Locations:** Christchurch  
 **Co-Sponsor:** [Catalyst](http://www.catalyst.net.nz/)
