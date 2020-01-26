@@ -1,8 +1,8 @@
 ---
 
-layout: col-sidebar
-title: OWASP New Zealand
-tags: owaspnz
+layout: full-width
+title: OWASP NZ Day 2020
+tags: nzday2020
 currency: nzd
 
 region: Oceania
@@ -18,6 +18,32 @@ The OWASP New Zealand Chapter has been active since 2007. In addition to our ann
 The chapter leaders are [Kim Carter](mailto:kim.carter@owasp.org) (Christchurch), [Kirk Jackson](mailto:kirk.jackson@owasp.org)
 (Wellington), and [John DiLeo](mailto:john.dileo@owasp.org) (Auckland).
 
+## Upcoming Events
+
+### Local Meetup Links
+
+* [OWASP New Zealand Chapter-Auckland](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/) 
+* [OWASP New Zealand Chapter-Christchurch](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/) 
+* [OWASP New Zealand Chapter-Wellington](https://www.meetup.com/OWASP-Wellington/)
+
+**19 - 21 February 2020**
+
+[![OWASP NZ Day - Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2020.jpg)](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2020)
+
+**[OWASP New Zealand Day 2020](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2020)** - University of Auckland School of Business
+* One-day conference, with three tracks, on Friday, 21 February - [Conference Registration](https://owaspnz2020.eventbrite.com) is FREE
+* Pre-Conference Training, Wednesday and Thursday, 19-20 February - Nine classes on offer [Training Registration](https://owaspnz2020-training.eventbrite.com) closes 12 February.
+Registration fees: $325.00 for half-day classes; $625.00 for one-day classes; $1250.00 for two-day classes (plus EventBrite fees)
+
+**10 February 2020**
+
+[Wellington Meetup](https://www.meetup.com/OWASP-Wellington/events/268151993/) 
+
+**Presentation:** Introduction to the OWASP Top Ten - Kirk Jackson
+**When:** Monday, 10 February; Gather at 5:30 p.m.; Talk starts at 6:00 p.m. 
+**Location:** RedShield House, 79 Boulcott St., Wellington
+**YouTube Live Stream:** https://www.youtube.com/watch?v=bZgjUXAjNao
+<hr />
 ### Keeping in Touch
 
   - Chapter Mailing List (Google Groups):
@@ -49,12 +75,6 @@ If you are located in another New Zealand city, and would be willing and able to
 ### The OWASP New Zealand Board
 
 We are always looking for additional board members to evangelise OWASP and its mission, and to help with meetings, projects, and initiatives. As we all know, it takes lots of time and effort to run a chapter. Please contact us if you are interested in joining the OWASP New Zealand board, would like to volunteer to help out or create a new Meetup/event, or for any queries related to the OWASP New Zealand Chapter.
-
-## Upcoming Events
-
-### 2020
-
-
 
 ## OWASP Statement on Participation
 
