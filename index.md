@@ -1,8 +1,8 @@
 ---
 
-layout: full-width
-title: OWASP NZ Day 2020
-tags: nzday2020
+layout: col-sidebar
+title: OWASP New Zealand
+tags: owaspnz
 currency: nzd
 
 region: Oceania
