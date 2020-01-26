@@ -32,9 +32,10 @@ tags: owaspnz
   <a href="https://security.ac.nz><img src="assets/images/Logo-security_ac_nz.png" alt="Logo - Security.ac.nz" /></a>
 </div>
 
-OWASP NZ is proud to invite you to our first [security.ac.nz](https://security.ac.nz) event. Please visit the [event website](https://security.ac.nz) for details.     
+OWASP NZ is proud to invite you to our first [security.ac.nz](https://security.ac.nz) event.
+**Details are available on the [event website](https://security.ac.nz).**       
 **Registration:** FREE   
-**Location:** Maclaurin Lecture Theatres, Victoria University of Wellington
+**Location:** Maclaurin Lecture Theatres, Victoria University of Wellington  
 
 **13 August**
 
@@ -54,7 +55,7 @@ OWASP NZ is proud to invite you to our first [security.ac.nz](https://security.a
 
 [Auckland Meetup - June 2019](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/257141477/)   
 **Top Ten Discussion:** A5 - Broken Access Control - Led by John DiLeo  
-**Technical Topic:** My Recent Adventures at OWASP Conferences - John DiLeo  
+**Presentation:** My Recent Adventures at OWASP Conferences - John DiLeo  
 **Event Sponsor and Host:** [Robert Walters](https://www.robertwalters.co.nz/)
 **Location:** Robert Walters, Level 9, 22 Fanshawe Street, CBD, Auckland
 
@@ -210,7 +211,7 @@ Registration fee: $500.00
 **29 November**
 
 [Wellington Meetup - November 2016](https://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/233253214/)  
-**Presentation:** OWASP Top Ten - Developing Secure Web Apps (PHP-Flavoured) - Kirk Jackson
+**Presentation:** OWASP Top Ten - Developing Secure Web Apps (PHP-Flavoured) - Kirk Jackson  
 **Video:** [https://www.youtube.com/watch?v=7u08zCz9viU](https://www.youtube.com/watch?v=7u08zCz9viU)    
 **Event Co-Hosts:** [PHP UserGroup Wellington](https://www.meetup.com/PHP-Usergroup-Wellington/)  
 
@@ -225,9 +226,9 @@ Registration fee: $500.00
 
 [Christchurch Meetup - September 2016](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/232611291/)  
 **Presentation and Demo:** Applying Cold War Learnings to our Daily OPSEC - Chris Campbell ([@phage_nz](https://twitter.com/phage_nz))
-**DeadDrop:** [https://deaddrop.jadeworld.com/](https://deaddrop.jadeworld.com/)
-**Github Repo:** [https://github.com/phage-nz/deaddrop](https://github.com/phage-nz/deaddrop)
-**Event Sponsors:** [Catalyst](http://www.catalyst.net.nz/) and [BinaryMist](https://binarymist.io/)
+**DeadDrop:** [https://deaddrop.jadeworld.com/](https://deaddrop.jadeworld.com/)  
+**Github Repo:** [https://github.com/phage-nz/deaddrop](https://github.com/phage-nz/deaddrop)  
+**Event Sponsors:** [Catalyst](http://www.catalyst.net.nz/) and [BinaryMist](https://binarymist.io/)  
 
 **29 August**
 
@@ -238,18 +239,18 @@ Registration fee: $500.00
 **29 June**
 
 [Christchurch Meetup -June 2016](http://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/229985413/)  
-**Presentation and Demo** Security Regression Testing with ZapAPI and NodeGoat - Kim Carter ([@binarymist)[https://twitter.com/binarymist))
+**Presentation and Demo:** Security Regression Testing with ZapAPI and NodeGoat - Kim Carter ([@binarymist](https://twitter.com/binarymist))  
 **Teaser Video:** [https://youtu.be/DrwXUOJWMoo](https://youtu.be/DrwXUOJWMoo)  
 **Github Repo:** [https://github.com/binarymist/NodeGoat/wiki/Security-Regression-Testing-with-Zap-API](https://github.com/binarymist/NodeGoat/wiki/Security-Regression-Testing-with-Zap-API)  
 **Source Material:** Kim's Book, *[Holistic InfoSec for Web Developers](https://leanpub.com/holistic-infosec-for-web-developers/read#process-agile-development-and-practices-security-regression-testing)*  
-**Event Sponsors:** [http://www.catalyst.net.nz/ Catalyst] and [http://blog.binarymist.net/ BinaryMist]
+**Event Sponsors:** [Catalyst](http://www.catalyst.net.nz/ and [BinaryMist](https://binarymist.io/)   
 
 **27 June**
 
 [Wellington Meetup - June 2016](http://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/232017285/)  
 **Presentation:** Introduction to Using a Web Application Firewall (WAF) - Graeme Neilson
 **Video:** [https://www.youtube.com/watch?v=iAPFf9Iqwos](https://www.youtube.com/watch?v=iAPFf9Iqwos)  
-**Event Sponsor:** [RedShield](https://www.redshield.co)
+**Event Sponsor:** [RedShield](https://www.redshield.co)  
 
 **30 March**
 
