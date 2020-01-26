@@ -25,19 +25,15 @@ tags: owaspnz
 **Venue Host:** Simon White  
 **Location:** Middleware NZ, 104 Quay Street, CBD, Auckland
 
-=== 
-
 **24 - 25 August**
 
 <div style="background-color: black;">
-[![Logo - Security.ac.nz](assets/images/Logo-security_ac_nz.png)](https://security.ac.nz)
+  <a href="https://security.ac.nz><img src="assets/images/Logo-security_ac_nz.png" alt="Logo - Security.ac.nz" /></a>
 </div>
 
-OWASP NZ is proud to invite you to our first [https://security.ac.nz https://security.ac.nz] event. Please visit the [https://security.ac.nz website] for details.   
+OWASP NZ is proud to invite you to our first [security.ac.nz](https://security.ac.nz) event. Please visit the [event website](https://security.ac.nz) for details.     
 **Registration:** FREE   
 **Location:** Maclaurin Lecture Theatres, Victoria University of Wellington
-
-===
 
 **13 August**
 
@@ -46,16 +42,12 @@ OWASP NZ is proud to invite you to our first [https://security.ac.nz https://sec
 **Technical Discussion:** Addressing Vulnerable Components with OWASP Projects and Tools - John DiLeo  
 **Location:** Orion Health, 181 Grafton Road, Grafton, Auckland
 
-===
-
 **10 August**
 
 [Auckland Training Day - 2019](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/262858250/)   
 **Threat Modelling: Getting from None to Done''' - John DiLeo  
 **Registration:** $125.00 (plus EventBrite fees), inclusive of morning and afternoon tea, lunch, and class materials  
 **Location:** Orion Health, 181 Grafton Road, Grafton, Auckland  
-
-===
 
 **11 June**
 
@@ -64,16 +56,12 @@ OWASP NZ is proud to invite you to our first [https://security.ac.nz https://sec
 **Technical Topic:** My Recent Adventures at OWASP Conferences - John DiLeo  
 **Location:** Robert Walters, Level 9, 22 Fanshawe Street, CBD, Auckland
 
-===
-
 **9 April**
 
 [Auckland Meetup - April 2019](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/257141431/)   
 **Top Ten Discussion:** A4 - XML External Entities (XXE) - Led by John DiLeo  
 **Open Discussion:** What do we want to do this year?  
 **Location:** Orion Health, 181 Grafton Road, Grafton, Auckland
-
-===
 
 **21 - 22 February**
 
@@ -83,8 +71,6 @@ OWASP NZ is proud to invite you to our first [https://security.ac.nz https://sec
 * One-day conference, with two tracks, on Friday, 22 February - Conference Registration: FREE  
 * Pre-Conference Training, Thursday, 21 February - Three classes offered    
 Registration fees: $250.00 for half-day classes; $500.00 for full-day classes
-
-===
 
 ### 2018
 
