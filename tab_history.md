@@ -11,14 +11,14 @@ tags: owaspnz
 
 ### 2019
 
-####10 December: [Auckland Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/257141559/)
+#### 10 December: [Auckland Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/257141559/)
    
 **Secure Coding Tournament:** Hosted by Jeanette Gill, [Secure Code Warrior](https://securecodewarrior.com/)  
 **Location:** Orion Health, 181 Grafton Road, Grafton, Auckland
 
 -------------------
 
-####8 October: [Auckland Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/257141543/)
+#### 8 October: [Auckland Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/257141543/)
   
 **Top Ten Discussion:** A6 - Security Misconfiguration  - Led by James Ting-Edwards  
 **Presentation:** What's In a Name? Law of Agency and Domain Name Registrations - Judy Ting-Edwards  
@@ -28,7 +28,7 @@ tags: owaspnz
 
 -------------------
 
-####24 - 25 August: Security.ac.nz Conference
+#### 24 - 25 August: Security.ac.nz Conference
 
 <div style="background-color: black;">
   <a href="https://security.ac.nz><img src="assets/images/Logo-security_ac_nz.png" alt="Logo - Security.ac.nz" /></a>
@@ -41,7 +41,7 @@ OWASP NZ is proud to invite you to our first [security.ac.nz](https://security.a
 
 -------------------
 
-####13 August: [Auckland Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/257141559/)
+#### 13 August: [Auckland Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/257141559/)
    
 **Top Ten Discussion:** A9 - Using Components with Known Vulnerabilities - Led by John DiLeo
 **Technical Discussion:** Addressing Vulnerable Components with OWASP Projects and Tools - John DiLeo ([@gr4ybeard](https://twitter.com/gr4ybeard))  
@@ -49,7 +49,7 @@ OWASP NZ is proud to invite you to our first [security.ac.nz](https://security.a
 
 -------------------
 
-####10 August: [Auckland Training Day](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/262858250/)
+#### 10 August: [Auckland Training Day](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/262858250/)
    
 **Threat Modelling: Getting from None to Done** - John DiLeo ([@gr4ybeard](https://twitter.com/gr4ybeard))   
 **Registration:** $125.00 (plus EventBrite fees), inclusive of morning and afternoon tea, lunch, and class materials  
@@ -57,7 +57,7 @@ OWASP NZ is proud to invite you to our first [security.ac.nz](https://security.a
 
 -------------------
 
-####11 June: [Auckland Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/257141477/)   
+#### 11 June: [Auckland Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/257141477/)   
 **Top Ten Discussion:** A5 - Broken Access Control - Led by John DiLeo  
 **Presentation:** My Recent Adventures at OWASP Conferences - John DiLeo ([@gr4ybeard](https://twitter.com/gr4ybeard))  
 **Event Sponsor and Host:** [Robert Walters](https://www.robertwalters.co.nz/)
@@ -65,7 +65,7 @@ OWASP NZ is proud to invite you to our first [security.ac.nz](https://security.a
 
 -------------------
 
-####9 April: [Auckland Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/257141431/)
+#### 9 April: [Auckland Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/257141431/)
    
 **Top Ten Discussion:** A4 - XML External Entities (XXE) - Led by John DiLeo ([@gr4ybeard](https://twitter.com/gr4ybeard))  
 **Open Discussion:** What do we want to do this year?  
@@ -73,7 +73,7 @@ OWASP NZ is proud to invite you to our first [security.ac.nz](https://security.a
 
 -------------------
 
-####21 - 22 February: Tenth OWASP New Zealand Day Conference
+#### 21 - 22 February: Tenth OWASP New Zealand Day Conference
 
 [![OWASP NZ Day 2019 - Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2019.jpg)](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2019)
 
@@ -86,7 +86,7 @@ Registration fees: $250.00 for half-day classes; $500.00 for full-day classes
 
 ### 2018
 
-####11 December: [Auckland Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/249448666/)
+#### 11 December: [Auckland Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/249448666/)
    
 **Top Ten Discussion:** A2 - Broken Authentication - Led by John DiLeo  
 **Technical Topic:** Some Thoughts on Threat Modelling - John DiLeo ([@gr4ybeard](https://twitter.com/gr4ybeard))  
@@ -94,14 +94,14 @@ Registration fees: $250.00 for half-day classes; $500.00 for full-day classes
 
 -------------------
 
-####29 October: [Wellington Meetup](https://www.meetup.com/OWASP-Wellington/events/255158934/)
+#### 29 October: [Wellington Meetup](https://www.meetup.com/OWASP-Wellington/events/255158934/)
    
 **Presentation:** Make the Cyber Safer with Multi-factor Authentication - Kevin Thomas  
 **Video:** [https://www.youtube.com/watch?v=lAkw24tClvQ](https://www.youtube.com/watch?v=lAkw24tClvQ)    
 
 -------------------
 
-####9 October: [Auckland Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/255158934/)
+#### 9 October: [Auckland Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/255158934/)
    
 **Technical Topic:** Integrating the Weakforced Security API - Steve Shipway, SMX Email  
 **Event Sponsor and Host:** [Cornerstone On-Demand](https://www.cornerstoneondemand.com/)  
@@ -109,14 +109,14 @@ Registration fees: $250.00 for half-day classes; $500.00 for full-day classes
 
 -------------------
 
-####27 August: [Wellington Meetup](https://www.meetup.com/OWASP-Wellington/events/253077472/)
+#### 27 August: [Wellington Meetup](https://www.meetup.com/OWASP-Wellington/events/253077472/)
    
 **Presentation:** Developer's guide to Deserialization Attack - Felix Shi  
 **Video:** [https://www.youtube.com/watch?v=Gi-Pk255Jyw](https://www.youtube.com/watch?v=Gi-Pk255Jyw)  
 
 -------------------
 
-####14 August: [Auckland Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/249448651/)
+#### 14 August: [Auckland Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/249448651/)
       
 **Top Ten Discussion:** A3 - Sensitive Data Exposure - Led by John DiLeo ([@gr4ybeard](https://twitter.com/gr4ybeard))  
 **Presentation:** Web Application Penetration Testing Demo - Shofe Miraz ([@shmi012](https://twitter.com/shmi012))    
@@ -124,7 +124,7 @@ Registration fees: $250.00 for half-day classes; $500.00 for full-day classes
 
 -------------------
 
-####12 June: [Auckland Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/mcvvmpyxgbnb/)
+#### 12 June: [Auckland Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/mcvvmpyxgbnb/)
     
 **Presentation:** GDPR and New Zealand Privacy Law - James Ting-Edwards ([@nullary](https://twitter.com/nullary))  
 **Event Sponsor and Host:** [InternetNZ](https://internetnz.nz/)  
@@ -132,13 +132,13 @@ Registration fees: $250.00 for half-day classes; $500.00 for full-day classes
 
 -------------------
 
-####11 June: [Wellington Meetup](https://www.meetup.com/OWASP-Wellington/events/250629813/)
+#### 11 June: [Wellington Meetup](https://www.meetup.com/OWASP-Wellington/events/250629813/)
    
 **Presentation:** What are certificates? - Matt Cotterell ([@mattcotterellnz](https://twitter.com/mattcotterellnz)   
 
 -------------------
 
-####10 April: [Auckland Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/mcvvmpyxgbnb/)
+#### 10 April: [Auckland Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/mcvvmpyxgbnb/)
    
 **Top Ten Discussion:** A1 - Injection - Led by John DiLeo  
 **Presentation:** OWASP Software Assurance Maturity Model (SAMM) - John DiLeo ([@gr4ybeard](https://twitter.com/gr4ybeard))  
@@ -146,21 +146,21 @@ Registration fees: $250.00 for half-day classes; $500.00 for full-day classes
 
 -------------------
 
-####28 March: [Christchurch Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/241803609/)
+#### 28 March: [Christchurch Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/241803609/)
      
 **Presentation:** CERT NZ  
 **Event Sponsor:** [Catalyst](http://www.catalyst.net.nz/)
 
 -------------------
 
-####26 February: [Wellington Meetup](https://www.meetup.com/OWASP-Wellington/events/246852662/)
+#### 26 February: [Wellington Meetup](https://www.meetup.com/OWASP-Wellington/events/246852662/)
      
 **Presentation:** CERT NZ - Who are we? How are websites getting hacked in real life? - Declan Ingram  
 **Video:** [https://www.youtube.com/watch?v=WhYh-eUqxIA](https://www.youtube.com/watch?v=WhYh-eUqxIA)  
 
 -------------------
 
-####4 - 5 February: Ninth OWASP New Zealand Day Conference
+#### 4 - 5 February: Ninth OWASP New Zealand Day Conference
 
 [![OWASP NZ Day 2018 - Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2018.jpg)](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2018)
 
