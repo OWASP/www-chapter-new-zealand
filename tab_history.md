@@ -164,7 +164,7 @@ Registration fees: $250.00 for half-day classes; $500.00 for full-day classes
 
 [![OWASP NZ Day 2018 - Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2018.jpg)](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2018)
 
-[OWASP New Zealand Day 2018](https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2018) - University of Auckland Business School  
+[OWASP New Zealand Day 2018](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2018) - University of Auckland Business School  
 * One-day conference, with two tracks, on Monday, 5 February - FREE Registration
 * Pre-Conference Training, Sunday, 3 February - One class offered  
 Registration fee: $500.00
@@ -173,32 +173,29 @@ Registration fee: $500.00
 
 ### 2017
 
-**2 October**
-
-[Wellington Meetup - October 2017](https://www.meetup.com/OWASP-Wellington/events/242968218/)     
+#### 2 October: [Wellington Meetup](https://www.meetup.com/OWASP-Wellington/events/242968218/)
+     
 **Presentation:** Same-origin policy: The core of web security - Kirk Jackson  
 **Video:** [https://www.youtube.com/watch?v=5wFCRANIbdc](https://www.youtube.com/watch?v=5wFCRANIbdc)  
 
 -------------------
 
-**27 September**
-
-[Christchurch Meetup - September 2017](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/241328587/)     
+#### 27 September: [Christchurch Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/241328587/)
+     
 **Presentation:** Securing your data (your business) using SQL Server 2016 - [Anupama Natarajan](https://twitter.com/shantha05)     
 **Event Sponsor:** [Catalyst](http://www.catalyst.net.nz/)
 
 -------------------
 
-**31 July**
-
-[Wellington Meetup - July 2017](https://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/241187473/)   
+#### 31 July: [Wellington Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/241187473/)
+   
 **Presentation:** What is Cross-Site Request Forgery? - Vales Bakaitis  
 **Video:** [https://www.youtube.com/watch?v=G1aLGaMqnm0](https://www.youtube.com/watch?v=G1aLGaMqnm0)  
 
 -------------------
 
-**28 June**
-[Christchurch Meetup - June 2017](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/236349292/)   
+#### 28 June: [Christchurch Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/236349292/)
+   
 **Web Developer Quiz Night**  
 **Prepared and Conducted By:** [Kim Carter](https://twitter.com/binarymist)  
 **Details [on binarymist.io](https://binarymist.io/talk/owaspnz-chch-meetup-2017-workshop-quiz-night/)**   
@@ -206,36 +203,33 @@ Registration fee: $500.00
 
 -------------------
 
-**29 May**
-
-[Wellington Meetup - May 2017](https://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/239202702/)   
+#### 29 May: [Wellington Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/239202702/)
+   
 **Presentation:** Developer's Guide to Preventing XSS - Felix Shi    
 **Video:** [https://www.youtube.com/watch?v=0J5Rpf3nNjU](https://www.youtube.com/watch?v=0J5Rpf3nNjU)  
 
 -------------------
 
-**19 - 20 April**
+#### 19 - 20 April: Eighth OWASP New Zealand Day Conference
 
 [![OWASP NZ Day 2017 - Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2017.jpg)](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2017)
 
-[OWASP New Zealand Day 2017](https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2017) - University of Auckland Business School  
+[OWASP New Zealand Day 2017](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2017) - University of Auckland Business School  
 * One-day conference, with two tracks, on Thursday, 20 April - FREE Registration
 * Pre-Conference Training, Wednesday, 19 April - Half-day and full-day classes offered
 
 -------------------
 
-**29 March**
-
-[Christchurch Meetup - March 2017](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/236349292/)   
+#### 29 March: [Christchurch Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/236349292/)
+   
 **Presentation:** PHP Hurts Programmers (and other tales) - Keith Humm ([@spronkey](https://twitter.com/spronkey))    
 **Slides:** [On Speaker Deck](https://speakerdeck.com/spronkey/php-hurts-programmers-and-other-tales)   
 **Event Sponsor:** [Catalyst](http://www.catalyst.net.nz/)
 
 -------------------
 
-**27 February**
-
-[Wellington Meetup - February 2017](https://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/237712167/)     
+#### 27 February: [Wellington Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/237712167/)
+     
 **Presentation:** Building the ultimate login and signup - Matt Cotterell   
 **Video:** [https://www.youtube.com/watch?v=E25KxLKwY-M](https://www.youtube.com/watch?v=E25KxLKwY-M)  
 **Location:** Wellington
@@ -244,27 +238,24 @@ Registration fee: $500.00
 
 ### 2016
 
-**29 November**
-
-[Wellington Meetup - November 2016](https://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/233253214/)  
+#### 29 November: [Wellington Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/233253214/)
+  
 **Presentation:** OWASP Top Ten - Developing Secure Web Apps (PHP-Flavoured) - Kirk Jackson  
 **Video:** [https://www.youtube.com/watch?v=7u08zCz9viU](https://www.youtube.com/watch?v=7u08zCz9viU)    
 **Event Co-Hosts:** [PHP UserGroup Wellington](https://www.meetup.com/PHP-Usergroup-Wellington/)  
 
 -------------------
 
-**10 October**
-
-[Wellington Meetup - October 2016](https://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/233954065/)   
+#### 10 October: [Wellington Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/233954065/)
+   
 **Presentation:** Introduction to Ruby on Rails security - Tim Goddard  
 **Video:** [https://www.youtube.com/watch?v=Hez1QYc9yo8](https://www.youtube.com/watch?v=Hez1QYc9yo8)  
 **Event Sponsor:** [Insomnia Security Specialists](https://www.insomniasec.com)  
 
 -------------------
 
-**28 September**
-
-[Christchurch Meetup - September 2016](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/232611291/)  
+#### 28 September: [Christchurch Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/232611291/)
+  
 **Presentation and Demo:** Applying Cold War Learnings to our Daily OPSEC - Chris Campbell ([@phage_nz](https://twitter.com/phage_nz))
 **DeadDrop:** [https://deaddrop.jadeworld.com/](https://deaddrop.jadeworld.com/)  
 **Github Repo:** [https://github.com/phage-nz/deaddrop](https://github.com/phage-nz/deaddrop)  
@@ -272,17 +263,15 @@ Registration fee: $500.00
 
 -------------------
 
-**29 August**
-
-[Wellington Meetup - August 2016](https://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/232212284/)  
+#### 29 August: [Wellington Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/232212284/)
+  
 **Presentation:** Mobile App Security: Introduction to the OWASP Mobile Top 10 - Mike Haworth  
 **Video:** [https://www.youtube.com/watch?v=SbXO6wNvOM4](https://www.youtube.com/watch?v=SbXO6wNvOM4)  
 
 -------------------
 
-**29 June**
-
-[Christchurch Meetup -June 2016](http://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/229985413/)  
+#### 29 June: [Christchurch Meetup](http://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/229985413/)
+  
 **Presentation and Demo:** Security Regression Testing with ZapAPI and NodeGoat - Kim Carter ([@binarymist](https://twitter.com/binarymist))  
 **Teaser Video:** [https://youtu.be/DrwXUOJWMoo](https://youtu.be/DrwXUOJWMoo)  
 **Github Repo:** [https://github.com/binarymist/NodeGoat/wiki/Security-Regression-Testing-with-Zap-API](https://github.com/binarymist/NodeGoat/wiki/Security-Regression-Testing-with-Zap-API)  
@@ -291,28 +280,26 @@ Registration fee: $500.00
 
 -------------------
 
-**27 June**
-
-[Wellington Meetup - June 2016](http://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/232017285/)  
+#### 27 June: [Wellington Meetup](http://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/232017285/)
+  
 **Presentation:** Introduction to Using a Web Application Firewall (WAF) - Graeme Neilson
 **Video:** [https://www.youtube.com/watch?v=iAPFf9Iqwos](https://www.youtube.com/watch?v=iAPFf9Iqwos)  
 **Event Sponsor:** [RedShield](https://www.redshield.co)  
 
 -------------------
 
-**30 March**
-
-[Christchurch Meetup - March 2016](http://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/226227782/)    
+#### 30 March: [Christchurch Meetup](http://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/226227782/)
+    
 **Presentation:** Discussion of [Qubes OS](https://www.qubes-os.org) - Craig Rowland  
 **Event Sponsors:** [Dimension Data](https://www.dimensiondata.com/en) and [BinaryMist](https://binarymist.io/)   
 
 -------------------
 
-**3-4 February**
+#### 3-4 February: Seventh OWASP New Zealand Day Conference
 
 [![OWASP NZ Day 2016 - Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2016.jpg)](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2016) 
 
-[OWASP New Zealand Day 2016](https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2016) - University of Auckland School of Commerce
+[OWASP New Zealand Day 2016](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2016) - University of Auckland School of Commerce
 
 * One-day conference, with two tracks in the afternoon, on Thursday, 4 February - FREE Registration
 * Pre-Conference Training, Wednesday, 3 February - One class offered  
@@ -321,44 +308,40 @@ Registration fee: $500.00
 
 ### 2015
 
-**25 November**
-
-[Christchurch Meetup - November 2015](http://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/225737100/)    
+#### 25 November: [Christchurch Meetup](http://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/225737100/)
+    
 **Presentation:** UAC, Governance, and Managing the External Infosec Audit - Drewe Hinkley  
 **Event Sponsors:** [Dimension Data](https://www.dimensiondata.com/en) and [BinaryMist](https://binarymist.io/)   
 
 -------------------
 
-**30 September**
-
-[Christchurch Meetup - September 2015](http://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/223462991/)  
+#### 30 September: [Christchurch Meetup](http://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/223462991/)
+  
 **Presentations:**
 * The Exploited and the Exploiters: Case Study of a Real Cyber Hack - Salinda Lekamge
 * Live Demo's from *[Holistic InfoSec for Web Developers](https://leanpub.com/b/holisticinfosecforwebdevelopers)* - Kim Carter ([@binarymist](https://twitter.com/binarymist))  
 
 -------------------
 
-**24 June**
-
-[Christchurch Meetup - June 2015](http://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/221412721/)  
+#### 24 June: [Christchurch Meetup](http://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/221412721/)
+  
 **Presentation:** Does Your Cloud Solution Look Like a Mushroom? - Kim Carter ([@binarymist](https://twitter.com/binarymist))  
 **Event Sponsors:** [Dimension Data](https://www.dimensiondata.com/en) and [BinaryMist](https://binarymist.io/)   
 
 -------------------
 
-**25 March**
-
-[Christchurch Meetup - June 2015](http://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/219456317/)  
+#### 25 March: [Christchurch Meetup](http://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/219456317/)
+  
 **Presentation:** Reverse Engineering, Cracking, Compromising Software Security & Mitigations - Rob Gilmour, Senior Software Engineer, Technical Support, [Jade Software Corporation Ltd.](https://www.jadeworld.com/)  
 **Event Sponsors:** [Dimension Data](https://www.dimensiondata.com/en) and [BinaryMist](https://binarymist.io/)   
 
 ----------------
 
-**26-27 February**
+#### 26-27 February: Sixth OWASP New Zealand Day Conference
 
 [![OWASP NZ Day 2015 - Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2015.png)](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2015) 
 
-[OWASP New Zealand Day 2015](https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2015) - University of Auckland Engineering Department
+[OWASP New Zealand Day 2015](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2015) - University of Auckland Engineering Department
 
 * One-day conference, with two tracks in the afternoon, on Friday, 27 February - FREE Registration
 * Pre-Conference Training, Thursday, 26 February - One class offered
@@ -367,25 +350,22 @@ Registration fee: $500.00
 
 ### 2014
 
-**26 November**
-
-[Christchurch Meetup - November 2014](http://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/209420462/)    
+#### 26 November: [Christchurch Meetup](http://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/209420462/)
+    
 **Workshop:** SSL/TLS Review, SSL Stripping Demo, and Mitigation Techniques - Kevin Alcock ([@kevinnz](https://twitter.com/kevinnz)), [Katipo Security](https://katiposec.com/)  
 **Event Sponsors:** [Dimension Data](https://www.dimensiondata.com/en) and [BinaryMist](https://binarymist.io/)   
 
 -------------------
 
-**25 September**
-
-[Christchurch Meetup - September 2014](http://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/198512052/)  
+#### 25 September: [Christchurch Meetup](http://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/198512052/)
+  
 **Workshop:** Review, Exploit, and Learn from the Vulnerable Web App - Chris Campbell, [Jade Software Corporation Ltd.](https://www.jadeworld.com/)  
 **Event Sponsors:** [Dimension Data](https://www.dimensiondata.com/en) and [BinaryMist](https://binarymist.io/)   
 
 -------------------
 
-**24 July** 
-
-[Wellington Meetup - July 2014](http://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/193784032/)    
+#### 24 July: [Wellington Meetup](http://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/193784032/)
+    
 **Workshop:** Web App Security Workshop - Adrian Hayes
 **Event Sponsor:** [Dimension Data](https://www.dimensiondata.com/en)  
 
@@ -393,16 +373,15 @@ Registration fee: $500.00
 
 ### 2013
 
-**19 December**
-
-[Chapter Meetup - December 2013](http://www.meetup.com/OWASP-New-Zealand-Chapter/events/154075992/)  
-**Presentation:** Extending Burp with Python ([PowerPoint Slide Deck](https://www.owasp.org/images/9/9f/Extending-Burp-with-Python.pptx)) - Mike Haworth, [Aura Information Security](https://www.aurainfosec.com/)  
+#### 19 December: [Chapter Meetup](http://www.meetup.com/OWASP-New-Zealand-Chapter/events/154075992/)
+  
+**Presentation:** Extending Burp with Python ([PowerPoint Slide Deck](https://wiki.owasp.org/images/9/9f/Extending-Burp-with-Python.pptx)) - Mike Haworth, [Aura Information Security](https://www.aurainfosec.com/)  
 **Locations:** Dimension Data offices in Auckland, Christchurch, and Wellington  
 **Event Sponsors:** [Security-Assessment.com](http://security-assessment.com) and [Touchpoint](http://www.touchpoint.co.nz)  
 
 ------------------
 
-**11-12 September**
+#### 11-12 September: Fifth OWASP New Zealand Day Conference
 
 [![OWASP NZ Day 2013 - Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2013.jpg)](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2013) 
 
@@ -413,9 +392,8 @@ Registration fee: $500.00
 
 -------------------
 
-**22 May**
+#### 22 May: [Chapter Meetup](http://www.meetup.com/OWASP-New-Zealand-Chapter/events/115108982/)  
 
-[Chapter Meetup - May 2013](http://www.meetup.com/OWASP-New-Zealand-Chapter/events/115108982/)  
 **Presentations:**
 * Secure by Design - Simon Burson
 * The New OWASP Top 10 - Adrian Hayes
@@ -427,7 +405,7 @@ Registration fee: $500.00
 
 ### 2012
 
-**31 August**
+#### 30-31 August: Fourth OWASP New Zealand Day Conference
 
 [![OWASP NZ Day 2012 - Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2012.png)](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2012) 
 
@@ -438,21 +416,19 @@ Registration fee: $500.00
 
 -------------------
 
-**8 May**
-
-**Chapter Meetup - May 2012**   
+#### 8 May: Chapter Meetup
+   
 **Presentation:** An Overview and introduction to modern day BeEF ([Slides](https://wiki.owasp.org/images/e/e0/Owasp2012-MarkPiper.pdf)) - Mark Piper, Insomnia Security Specialists   
 **Locations:** Auckland and Wellington   
 **Event Sponsors:** [Security-Assessment.com](http://security-assessment.com) and [Touchpoint](http://www.touchpoint.co.nz)  
 
 -------------------
 
-**28 February**
-
-**Chapter Meetup - February 2012**   
+#### 28 February: Chapter Meetup
+   
 **Presentations:**   
-* Introduction to the OWASP Top Ten - Part 3 ([Slides](https://www.owasp.org/images/2/27/OWASP_Top_10-7_to_10-aj.pdf)) - Adrian Hayes, Security-Assessment.com    
-* Mistaken Identity: How Not To Build A Password Reset Process ([Slides]([https://www.owasp.org/images/0/08/OWASP-Mistaken_Identity-Password_Reset-nickf.pdf)) - Nick Freeman, Security-Assessment.com   
+* Introduction to the OWASP Top Ten - Part 3 ([Slides](https://wiki.owasp.org/images/2/27/OWASP_Top_10-7_to_10-aj.pdf)) - Adrian Hayes, Security-Assessment.com    
+* Mistaken Identity: How Not To Build A Password Reset Process ([Slides]([https://wiki.owasp.org/images/0/08/OWASP-Mistaken_Identity-Password_Reset-nickf.pdf)) - Nick Freeman, Security-Assessment.com   
 
 **Locations:** Auckland and Wellington   
 **Event Sponsors:** [Security-Assessment.com](http://security-assessment.com) and [Touchpoint](http://www.touchpoint.co.nz)  
@@ -461,31 +437,29 @@ Registration fee: $500.00
 
 ### 2011
 
-**6 December**
-
-**Chapter Meetup - December 2011**   
+#### 6 December: Chapter Meetup
+   
 **Presentations:**    
-* Introduction to the OWASP Top Ten - Part 2 ([Slides](https://www.owasp.org/images/6/6d/OWASP_NZ-DEC2011-OWASP_Top_10-4_to_6.pdf)) - Adrian Hayes, Security-Assessment.com  
-* Hardened Hosting ([Slides](https://www.owasp.org/images/1/15/OWASP_NZ-DEC2011-Hardened_Hosting.pdf)) - Quintin Russ, SiteHost  
+* Introduction to the OWASP Top Ten - Part 2 ([Slides](https://wiki.owasp.org/images/6/6d/OWASP_NZ-DEC2011-OWASP_Top_10-4_to_6.pdf)) - Adrian Hayes, Security-Assessment.com  
+* Hardened Hosting ([Slides](https://wiki.owasp.org/images/1/15/OWASP_NZ-DEC2011-Hardened_Hosting.pdf)) - Quintin Russ, SiteHost  
 
 **Locations:** Auckland and Wellington   
 **Event Sponsors:** [Security-Assessment.com](http://security-assessment.com) and [Touchpoint](http://www.touchpoint.co.nz)  
 
 -------------------
 
-**20 September**
-
-**Chapter Meetup - September 2011**   
+#### 20 September: Chapter Meetup
+   
 **Presentations:**   
-* Introduction to the OWASP Top Ten - Part 1 ([Slides](https://www.owasp.org/images/c/cf/OWASP_NZ_SEP2011_TOP-10_1-of-3.pdf)) - Nick Freeman, Security-Assessment.com   
-* Clickjacking for Shells ([Slides](https://www.owasp.org/images/3/31/OWASP_NZ_SEP2011_Clickjacking-for-shells_PDF-version.pdf)) - Andrew Horton, Security-Assessment.com   
+* Introduction to the OWASP Top Ten - Part 1 ([Slides](https://wiki.owasp.org/images/c/cf/OWASP_NZ_SEP2011_TOP-10_1-of-3.pdf)) - Nick Freeman, Security-Assessment.com   
+* Clickjacking for Shells ([Slides](https://wiki.owasp.org/images/3/31/OWASP_NZ_SEP2011_Clickjacking-for-shells_PDF-version.pdf)) - Andrew Horton, Security-Assessment.com   
 
 **Locations:** Auckland and Wellington   
 **Event Sponsor:** [Security-Assessment.com](http://security-assessment.com)  
 
 -------------------
 
-**7 July**
+#### 7 July: Third OWASP New Zealand Day Conference
 
 [![OWASP NZ Day 2011 - Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2011.png)](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2011) 
 
@@ -496,9 +470,8 @@ Registration fee: $500.00
 
 -------------------
 
-**2 March**
-
-**Chapter Meetup - March 2011**   
+#### 2 March: Chapter Meetup
+   
 **Presentations:**   
 * Crazy Insecure Web Apps Google Didn't Tell You About - Adrian Hayes, Security-Assessment.com   
 * I know what you did last summer: The latest from the world of web hacks ([Slides](http://wiki.owasp.org/images/5/5e/2011-03-02-OWASP.pdf)) - Kirk Jackson, Aura Software Security   
@@ -510,124 +483,129 @@ Registration fee: $500.00
 
 ### 2010
 
-; 15th July 2010
-[https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2010 http://www.owasp.org/images/a/a7/Owasp_nz_day_2010.jpg]
-**Co-Sponsor:** [http://www.security-assessment.com Security-Assessment.com], [http://www.lateralsecurity.com Lateral Security], [http://www.auckland.ac.nz/ The University of Auckland]
-**Location:** Auckland
-**Presentations:** [http://www.owasp.org/index.php/OWASP_New_Zealand_Day_2010#tab=Presentations Download] 
-**Event site:** [[OWASP_New_Zealand_Day_2010|OWASP New Zealand Day 2010]]
+#### 15 July: Second OWASP New Zealand Day Conference
+
+[![OWASP NZ Day 2010 - Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2010.jpg)](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2010) 
+
+[OWASP New Zealand Day 2010](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2010) - University of Auckland Business School  
+
+* One-day, single-track conference - FREE Registration
 
 -------------------
 
-; 4th March 2010
-**Co-Sponsor:** [http://security-assessment.com Security-Assessment.com]
-**Locations:** Wellington, Auckland
-**Presentation:** MS-SQL Injections.
-**Presented By:** Scott Bell, Security Consultant (Security-Assessment.com)
+#### 4 March: Chapter Meetup
+
+**Presentation:** MS-SQL Injections - Scott Bell, Security-Assessment.com
+**Locations:** Auckland and Wellington   
+**Event Sponsor:** [Security-Assessment.com](http://security-assessment.com)  
 
 -------------------
 
 ### 2009
 
-; 10th November 2009
-**Co-Sponsor:** [http://security-assessment.com Security-Assessment.com]
-**Locations:** Wellington, Auckland
-**Presentation:** Testing AMF/Flex.
-**Presented By:** Nick Freeman, Security Consultant (Security-Assessment.com)
-**Presentation:** "Shared Ownership", from a web security perspective.
-**Presented By:** Quintin Russ, Technical Director (Site Host)
+#### 10 November: Chapter Meetup
+
+**Presentations:**    
+* Testing AMF/Flex - Nick Freeman, Security-Assessment.com
+* "Shared Ownership," from a web security perspective - Quintin Russ, Site Host
+
+**Locations:** Auckland and Wellington   
+**Event Sponsor:** [Security-Assessment.com](http://security-assessment.com)  
 
 -------------------
 
-; 13th July 2009
-[https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2009 https://www.owasp.org/images/8/85/Owasp_nz_logo.jpg]
-**Co-Sponsor:** [http://www.security-assessment.com Security-Assessment.com], [http://www.lateralsecurity.com Lateral Security], [http://www.auckland.ac.nz/ The University of Auckland]
-**Location:** Auckland
-**Presentations:** [http://www.owasp.org/index.php/OWASP_New_Zealand_Day_2009#tab=Presentations Download] 
-**Event site:** [[OWASP_New_Zealand_Day_2009|OWASP New Zealand Day 2009]]
+#### 13 July: OWASP New Zealand Day
+
+[![OWASP NZ Day 2009 - Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2009.jpg)](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2009) 
+
+[OWASP New Zealand Day 2009](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2009) - University of Auckland  
+
+* One-day, single-track conference - FREE Registration
 
 -------------------
 
-; 19th March 2009
-**Co-Sponsor:** [http://www.vodafone.co.nz Vodafone New Zealand] and [http://security-assessment.com Security-Assessment.com]
-**Locations:** Wellington, Auckland
-**Presentation:** "[http://www.owasp.org/index.php/Image:ActiveXploitation_In_2009.pptx ActiveXploitation in 2009]"
-**Presented By:** Paul Craig, Principal Security Consultant (Security-Assessment.com)
-**Presentation:** "[http://www.owasp.org/index.php/Image:OWASP_Mar09_Reversing_JavaScript.zip Reversing JavaScript]"
-**Presented By:** Roberto Suggi Liverani, Senior Security Consultant (Security-Assessment.com)
+#### 19 March: Chapter Meetup
+
+**Presentations:**   
+* ActiveXploitation in 2009 ([Slides](http://wiki.owasp.org/index.php/Image:ActiveXploitation_In_2009.pptx)) - Paul Craig, Security-Assessment.com
+* Reversing JavaScript ([Slides](http://wiki.owasp.org/index.php/Image:OWASP_Mar09_Reversing_JavaScript.zip)) - Roberto Suggi Liverani, Security-Assessment.com
+   
+**Locations:** Auckland and Wellington   
+**Event Sponsors:** [Vodafone New Zealand](http://www.vodafone.co.nz) and [Security-Assessment.com](http://security-assessment.com)  
 
 -------------------
 
 ### 2008
 
-; 5th November 2008
-**Co-Sponsor:** [http://www.vodafone.co.nz Vodafone New Zealand] and [http://security-assessment.com Security-Assessment.com]
-**Locations:** Wellington, Auckland
-**Presentation:** "[https://www.owasp.org/index.php/Image:Common_Application_Flaws.ppt Common Application Flaws]"
-**Presented By:** Brett Moore, Network Intrusion Specialist (Insomnia Security)
-**Presentation:** "In your Browser, Jackin your Clicks"
-**Presented By:** Beau Butler, Security Consultant (Security-Assessment.com)
-**Presentation:** "Opera Stored Cross Site Scripting"
-**Presented By:** Roberto Suggi Liverani, Security Consultant (Security-Assessment.com)
+#### 5 November: Chapter Meetup
+ 
+**Presentations:**   
+* Common Application Flaws ([Slides](https://wiki.owasp.org/index.php/Image:Common_Application_Flaws.ppt)) - Brett Moore, Insomnia Security   
+* In your Browser, Jackin your Clicks - Beau Butler, Security-Assessment.com
+* Opera Stored Cross Site Scripting - Roberto Suggi Liverani, Security-Assessment.com
+   
+**Locations:** Auckland and Wellington   
+**Event Sponsors:** [Vodafone New Zealand](http://www.vodafone.co.nz) and [Security-Assessment.com](http://security-assessment.com)  
 
 -------------------
 
-; 3rd September 2008
-**Co-Sponsor:** [http://www.microsoft.com/en/nz/default.aspx Microsoft] and [http://security-assessment.com Security-Assessment.com]
-**Locations:** Wellington, Auckland
-**Presentation:** "[https://www.owasp.org/index.php/Image:Browser_security.ppt Browser Security]"
-**Presented By:** Roberto Suggi Liverani, Security Consultant (Security-Assessment.com)
-**Presentation:** "[https://www.owasp.org/index.php/Image:Time_Based_SQL_Injections.ppt Time based blind SQL Injections]"
-**Presented By:** Muhaimin Dzulfakar, Security Consultant (Security-Assessment.com)
+#### 3 September: Chapter Meetup
+
+**Presentations:** 
+* Browser Security ([Slides](https://wiki.owasp.org/index.php/Image:Browser_security.ppt Browser Security)) - Roberto Suggi Liverani, Security-Assessment.com
+* Time-Based Blind SQL Injections ([Slides](https://wiki.owasp.org/index.php/Image:Time_Based_SQL_Injections.ppt)) - Muhaimin Dzulfakar, Security-Assessment.com
+
+**Locations:** Auckland and Wellington   
+**Event Sponsors:** [Microsoft](http://www.microsoft.com/en/nz/default.aspx) and [Security-Assessment.com](http://security-assessment.com)  
 
 -------------------
 
-; 25th June 2008
-**Co-Sponsor:** [http://security-assessment.com Security-Assessment.com]
-**Locations:** Wellington, Auckland
-**Presentation:** "Fuzz the Web"
-**Presented By:** Dean Jerkovich, Security Analyst (ASB)
-**Presentation:** "Hacking The World With Flash Part #2: The Results"
-**Presented By:** Paul Crag, Principal Security Consultant (Security-Assessment.com)
+#### 25 June: Chapter Meetup
+
+**Presentations:**   
+* Fuzz the Web - Dean Jerkovich, ASB
+* Hacking The World With Flash Part #2: The Results - Paul Crag, Security-Assessment.com
+
+**Locations:** Auckland and Wellington   
+**Event Sponsor:** [Security-Assessment.com](http://security-assessment.com)  
 
 -------------------
 
-; 29th April 2008
-**Co-Sponsor:** [http://security-assessment.com Security-Assessment.com]
-**Locations:** Wellington, Auckland
-**Presentation:** "[https://www.owasp.org/index.php/Image:Hacking_The_World_With_Flash.ppt Hacking The World With Flash]"
-**Presented By:** Paul Craig, Principal Security Consultant (Security-Assessment.com)
-**Presentation:** "[https://www.owasp.org/index.php/Image:Web_spam_techniques.ppt Web Spam Techniques] - also available in [http://malerisch.net/docs/web_spam_techniques/web_spam_techniques.html HTML] format"
-**Presented By:** Roberto Suggi Liverani, Security Consultant (Security-Assessment.com)
+#### 29 April: Chapter Meetup
+
+**Presentations:**   
+* Hacking The World With Flash ([Slides](https://wiki.owasp.org/index.php/Image:Hacking_The_World_With_Flash.ppt)) - Paul Craig, Security-Assessment.com  
+* Web Spam Techniques ([Slides](https://wiki.owasp.org/index.php/Image:Web_spam_techniques.ppt)) - Roberto Suggi Liverani, Security-Assessment.com
+
+**Locations:** Auckland and Wellington   
+**Event Sponsor:** [Security-Assessment.com](http://security-assessment.com)  
 
 -------------------
 
-; 21st February 2008
-**Co-Sponsor:** [http://www.vedaadvantage.com/home/home_default.aspx Veda Advantage]
-**Locations:** Auckland
-**Presentation:** "[http://www.owasp.org/index.php/Image:Xpath_Injection.ppt Xpath Injection - An Overview]"
-**Presented By:** Roberto Suggi Liverani, Security Consultant (Security-assessment.com)
+#### 21 February: Auckland Meetup
+
+**Presentation:** Xpath Injection - An Overview ([Slides](http://wiki.owasp.org/index.php/Image:Xpath_Injection.ppt)) - Roberto Suggi Liverani, Security-assessment.com   
+**Event Sponsor:** Veda Advantage   
 
 -------------------
 
 ### 2007
 
-; 5th December 2007
-**Co-Sponsor:** [http://www.vedaadvantage.com/home/home_default.aspx Veda Advantage]
-**Locations:** Auckland
-**Presentation:** "[http://malerisch.net/docs/ajax_security/Ajax_security.ppt Ajax Security]"
-**Presented By:** Roberto Suggi Liverani, Security Consultant (Security-assessment.com)
-**Presentation:** "On the job browser exploitation"
-**Presented By:** Mark Piper, Senior Security Consultant (Security-assessment.com)
+#### 5 December: Aucland Meetup
+
+**Presentations:** 
+
+* Ajax Security ([Slides](http://malerisch.net/docs/ajax_security/Ajax_security.ppt Ajax Security)) - Roberto Suggi Liverani, Security-assessment.com
+* On-the-job Browser Exploitation - Mark Piper, Security-assessment.com   
+
+**Event Sponsor:** Veda Advantage   
 
 -------------------
 
-; 22nd May 2007
-**Co-Sponsor:** [http://www.vedaadvantage.com/home/home_default.aspx Veda Advantage]
-**Press Release:** [http://www.vedaadvantage.com/vantage/news_in_brief_and_events/host_nz_owasp_meeting.aspx VedaAdvantage.com]
-**Locations:** Auckland
-**Presentation:** "OWASP in New Zealand"
-**Presented By:** Roberto Suggi Liverani / Antonio Spera
+#### 22 May: Auckland Meetup
+
+**Presentation:** OWASP in New Zealand - Roberto Suggi Liverani and Antonio Spera
+**Event Sponsor:** Veda Advantage      
 
 **January and April**
 
