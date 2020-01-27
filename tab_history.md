@@ -46,8 +46,8 @@ OWASP NZ is proud to invite you to our first [security.ac.nz](https://security.a
 **13 August**
 
 [Auckland Meetup - August 2019](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/257141559/)   
-**Top Ten Discussion:** A9 - Using Components with Known Vulnerabilities - Led by John DiLeo  
-**Technical Discussion:** Addressing Vulnerable Components with OWASP Projects and Tools - John DiLeo  
+**Top Ten Discussion:** A9 - Using Components with Known Vulnerabilities - Led by John DiLeo
+**Technical Discussion:** Addressing Vulnerable Components with OWASP Projects and Tools - John DiLeo ([@gr4ybeard](https://twitter.com/gr4ybeard))  
 **Location:** Orion Health, 181 Grafton Road, Grafton, Auckland
 
 -------------------
@@ -55,7 +55,7 @@ OWASP NZ is proud to invite you to our first [security.ac.nz](https://security.a
 **10 August**
 
 [Auckland Training Day - 2019](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/262858250/)   
-**Threat Modelling: Getting from None to Done** - John DiLeo  
+**Threat Modelling: Getting from None to Done** - John DiLeo ([@gr4ybeard](https://twitter.com/gr4ybeard))   
 **Registration:** $125.00 (plus EventBrite fees), inclusive of morning and afternoon tea, lunch, and class materials  
 **Location:** Orion Health, 181 Grafton Road, Grafton, Auckland  
 
@@ -65,7 +65,7 @@ OWASP NZ is proud to invite you to our first [security.ac.nz](https://security.a
 
 [Auckland Meetup - June 2019](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/257141477/)   
 **Top Ten Discussion:** A5 - Broken Access Control - Led by John DiLeo  
-**Presentation:** My Recent Adventures at OWASP Conferences - John DiLeo  
+**Presentation:** My Recent Adventures at OWASP Conferences - John DiLeo ([@gr4ybeard](https://twitter.com/gr4ybeard))  
 **Event Sponsor and Host:** [Robert Walters](https://www.robertwalters.co.nz/)
 **Location:** Robert Walters, Level 9, 22 Fanshawe Street, CBD, Auckland
 
@@ -74,7 +74,7 @@ OWASP NZ is proud to invite you to our first [security.ac.nz](https://security.a
 **9 April**
 
 [Auckland Meetup - April 2019](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/257141431/)   
-**Top Ten Discussion:** A4 - XML External Entities (XXE) - Led by John DiLeo  
+**Top Ten Discussion:** A4 - XML External Entities (XXE) - Led by John DiLeo ([@gr4ybeard](https://twitter.com/gr4ybeard))  
 **Open Discussion:** What do we want to do this year?  
 **Location:** Orion Health, 181 Grafton Road, Grafton, Auckland
 
@@ -97,7 +97,7 @@ Registration fees: $250.00 for half-day classes; $500.00 for full-day classes
 
 [Auckland Meetup - December 2018](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/249448666/)   
 **Top Ten Discussion:** A2 - Broken Authentication - Led by John DiLeo  
-**Technical Topic:** Some Thoughts on Threat Modelling - John DiLeo  
+**Technical Topic:** Some Thoughts on Threat Modelling - John DiLeo ([@gr4ybeard](https://twitter.com/gr4ybeard))  
 **Location:** Orion Health, 181 Grafton Road, Grafton, Auckland  
 
 -------------------
@@ -130,8 +130,8 @@ Registration fees: $250.00 for half-day classes; $500.00 for full-day classes
 **14 August**
 
 [Auckland Meetup - August 2018](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/249448651/)      
-**Top Ten Discussion:** A3 - Sensitive Data Exposure - Led by John DiLeo  
-**Presentation:** Web Application Penetration Testing Demo - Shofe Miraz    
+**Top Ten Discussion:** A3 - Sensitive Data Exposure - Led by John DiLeo ([@gr4ybeard](https://twitter.com/gr4ybeard))  
+**Presentation:** Web Application Penetration Testing Demo - Shofe Miraz ([@shmi012](https://twitter.com/shmi012))    
 **Location:** Orion Health, 181 Grafton Road, Grafton, Auckland
 
 -------------------
@@ -139,7 +139,7 @@ Registration fees: $250.00 for half-day classes; $500.00 for full-day classes
 **12 June** 
 
 [Auckland Meetup - June 2018](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/mcvvmpyxgbnb/)    
-**Presentation:** GDPR and New Zealand Privacy Law - James Ting-Edwards  
+**Presentation:** GDPR and New Zealand Privacy Law - James Ting-Edwards ([@nullary](https://twitter.com/nullary))  
 **Event Sponsor and Host:** [InternetNZ](https://internetnz.nz/)  
 **Location:** InternetNZ, 62 Victoria Street West, Auckland CBD, Auckland
 
@@ -148,7 +148,7 @@ Registration fees: $250.00 for half-day classes; $500.00 for full-day classes
 **11 June**
 
 [Wellington Meetup - June 2018](https://www.meetup.com/OWASP-Wellington/events/250629813/)   
-**Presentation:** What are certificates? - Matt Cotterell  
+**Presentation:** What are certificates? - Matt Cotterell ([@mattcotterellnz](https://twitter.com/mattcotterellnz)   
 
 -------------------
 
@@ -156,7 +156,7 @@ Registration fees: $250.00 for half-day classes; $500.00 for full-day classes
 
 [Auckland Meetup - April 2018](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/mcvvmpyxgbnb/)   
 **Top Ten Discussion:** A1 - Injection - Led by John DiLeo  
-**Presentation:** OWASP Software Assurance Maturity Model (SAMM) - John DiLeo  
+**Presentation:** OWASP Software Assurance Maturity Model (SAMM) - John DiLeo ([@gr4ybeard](https://twitter.com/gr4ybeard))  
 **Location:** Orion Health, 181 Grafton Road, Grafton, Auckland
 
 -------------------
@@ -424,7 +424,7 @@ Registration fee: $500.00
 
 [![OWASP NZ Day 2013 - Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2013.jpg)](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2013) 
 
-[OWASP New Zealand Day 2013](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2013) - Auckland Business School  
+[OWASP New Zealand Day 2013](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2013) - University of Auckland Business School  
 
 * One-day conference, with two tracks in the afternoon, on Thursday, 12 September - FREE Registration
 * Pre-Conference Training, Wednesday, 11 September - Two classes offered  
@@ -445,70 +445,80 @@ Registration fee: $500.00
 
 ### 2012
 
-; 31st August 2012
-[https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2012 OWASP New Zealand Day 2012]
-**Co-Sponsor:** [http://www.auckland.ac.nz/ The University of Auckland], [http://www.security-assessment.com Security-Assessment.com], [http://www.aurainfosec.com Aura Information Security], [http://www.insomniasec.com Insomnia Security], [http://www.lateralsecurity.com Lateral Security], [http://www.webdrive.co.nz Web Drive]
-**Location:** Auckland 
-**Event site:** [[OWASP_New_Zealand_Day_2012|OWASP New Zealand Day 2012]]
+**31 August**
+
+[![OWASP NZ Day 2012 - Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2012.png)](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2012) 
+
+[OWASP New Zealand Day 2012](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2012) - University of Auckland Business School  
+
+* One-day conference, with two tracks in the afternoon, on Friday, 31 August - FREE Registration
+* Pre-Conference Training, Thursday, 30 August - Two classes offered  
 
 -------------------
 
-; 8th May 2012
-**Co-Sponsor:** [http://security-assessment.com Security-Assessment.com] and [http://www.touchpoint.co.nz Touchpoint]
-**Locations:** Wellington, Auckland
-**Presentation:** [https://www.owasp.org/images/e/e0/Owasp2012-MarkPiper.pdf An Overview and introduction to modern day BeEF]
-**Presented By:** Mark Piper, Insomnia Security
+**8 May**
+
+**Chapter Meetup - May 2012**   
+**Presentation:** An Overview and introduction to modern day BeEF ([Slides](https://wiki.owasp.org/images/e/e0/Owasp2012-MarkPiper.pdf)) - Mark Piper ([@dotslashpipe](https://twitter.com/dotslashpipe)), Insomnia Security Specialists   
+**Locations:** Auckland and Wellington   
+**Event Sponsors:** [Security-Assessment.com](http://security-assessment.com) and [Touchpoint](http://www.touchpoint.co.nz)  
 
 -------------------
 
-; 28th February 2012
-**Co-Sponsor:** [http://security-assessment.com Security-Assessment.com] and [http://www.touchpoint.co.nz Touchpoint]
-**Locations:** Wellington, Auckland
-**Presentation:** [https://www.owasp.org/images/2/27/OWASP_Top_10-7_to_10-aj.pdf Introduction to the OWASP Top Ten - Part 3]
-**Presented By:** Adrian Hayes, Security Consultant (Security-Assessment.com)
-**Presentation:** [https://www.owasp.org/images/0/08/OWASP-Mistaken_Identity-Password_Reset-nickf.pdf Mistaken Identity: How Not To Build A Password Reset Process]
-**Presented By:** Nick Freeman, Senior Security Consultant (Security-Assessment.com)
+**28 February**
+
+**Chapter Meetup - February 2012**   
+**Presentations:**   
+* Introduction to the OWASP Top Ten - Part 3 ([Slides](https://www.owasp.org/images/2/27/OWASP_Top_10-7_to_10-aj.pdf)) - Adrian Hayes, Security-Assessment.com    
+* Mistaken Identity: How Not To Build A Password Reset Process ([Slides]([https://www.owasp.org/images/0/08/OWASP-Mistaken_Identity-Password_Reset-nickf.pdf)) - Nick Freeman, Security-Assessment.com   
+**Locations:** Auckland and Wellington   
+**Event Sponsors:** [Security-Assessment.com](http://security-assessment.com) and [Touchpoint](http://www.touchpoint.co.nz)  
 
 -------------------
 
 ### 2011
 
-; 6th December 2011
-**Co-Sponsor:** [http://security-assessment.com Security-Assessment.com] and [http://www.touchpoint.co.nz Touchpoint]
-**Locations:** Wellington, Auckland
-**Presentation:** [https://www.owasp.org/images/6/6d/OWASP_NZ-DEC2011-OWASP_Top_10-4_to_6.pdf Introduction to the OWASP Top Ten - Part 2]
-**Presented By:** Adrian Hayes, Security Consultant (Security-Assessment.com)
-**Presentation:** [https://www.owasp.org/images/1/15/OWASP_NZ-DEC2011-Hardened_Hosting.pdf Hardened Hosting]
-**Presented By:** Quintin Russ, Technical Director (SiteHost)
+**6 December**
+
+**Chapter Meetup - December 2011**   
+**Presentations:**    
+* Introduction to the OWASP Top Ten - Part 2 ([Slides](https://www.owasp.org/images/6/6d/OWASP_NZ-DEC2011-OWASP_Top_10-4_to_6.pdf)) - Adrian Hayes, Security-Assessment.com  
+* Hardened Hosting ([Slides](https://www.owasp.org/images/1/15/OWASP_NZ-DEC2011-Hardened_Hosting.pdf)) - Quintin Russ, SiteHost  
+**Locations:** Auckland and Wellington   
+**Event Sponsors:** [Security-Assessment.com](http://security-assessment.com) and [Touchpoint](http://www.touchpoint.co.nz)  
 
 -------------------
 
-; 20th September 2011
-**Co-Sponsor:** [http://security-assessment.com Security-Assessment.com]
-**Locations:** Wellington, Auckland
-**Presentation:** [https://www.owasp.org/images/c/cf/OWASP_NZ_SEP2011_TOP-10_1-of-3.pdf Introduction to the OWASP Top Ten - Part 1]
-**Presented By:** Nick Freeman, Security Consultant (Security-Assessment.com)
-**Presentation:** [https://www.owasp.org/images/3/31/OWASP_NZ_SEP2011_Clickjacking-for-shells_PDF-version.pdf Clickjacking for Shells]
-**Presented By:** Andrew Horton, Security Consultant (Security-Assessment.com)
+**20 September**
+
+**Chapter Meetup - September 2011**   
+**Presentations:**   
+* Introduction to the OWASP Top Ten - Part 1 ([Slides](https://www.owasp.org/images/c/cf/OWASP_NZ_SEP2011_TOP-10_1-of-3.pdf)) - Nick Freeman, Security-Assessment.com   
+* Clickjacking for Shells ([Slides](https://www.owasp.org/images/3/31/OWASP_NZ_SEP2011_Clickjacking-for-shells_PDF-version.pdf)) - Andrew Horton, Security-Assessment.com   
+**Locations:** Auckland and Wellington   
+**Event Sponsor:** [Security-Assessment.com](http://security-assessment.com)  
 
 -------------------
 
-; 7th July 2011
-[https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2011 https://www.owasp.org/images/0/05/OWASP_NZ_Day_2011_Logo.png]
-**Co-Sponsor:** [http://www.security-assessment.com Security-Assessment.com], [http://www.auckland.ac.nz/ The University of Auckland]
-**Location:** Auckland
-**Presentations:** [http://www.owasp.org/index.php/OWASP_New_Zealand_Day_2011#tab=Speakers Download] 
-**Event site:** [[OWASP_New_Zealand_Day_2011|OWASP New Zealand Day 2011]]
+**7 July**
+
+[![OWASP NZ Day 2011 - Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2011.png)](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2011) 
+
+[OWASP New Zealand Day 2011](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2011) - University of Auckland Business School  
+
+* One-day, single-track conference on Thursday, 7 July - FREE Registration
+* Concurrent Training on Thursday - Two classes offered  
 
 -------------------
 
-; 2nd March 2011
-**Co-Sponsor:** [http://security-assessment.com Security-Assessment.com]
-**Locations:** Wellington, Auckland
-**Presentation:** Crazy Insecure Web Apps Google Didn't Tell You About..
-**Presented By:** Adrian Hayes, Security Consultant (Security-Assessment.com)
-**Presentation:** [http://www.owasp.org/images/5/5e/2011-03-02-OWASP.pdf I know what you did last summer: The latest from the world of web hacks]
-**Presented By:** Kirk Jackson, Security Consultant (Aura Software Security)
+**2 March**
+
+**Chapter Meetup - March 2011**   
+**Presentations:**   
+* Crazy Insecure Web Apps Google Didn't Tell You About - Adrian Hayes, Security-Assessment.com   
+* I know what you did last summer: The latest from the world of web hacks ([Slides](http://wiki.owasp.org/images/5/5e/2011-03-02-OWASP.pdf)) - Kirk Jackson, Aura Software Security   
+**Locations:** Auckland and Wellington   
+**Event Sponsor:** [Security-Assessment.com](http://security-assessment.com)  
 
 -------------------
 
