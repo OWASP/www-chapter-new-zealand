@@ -286,13 +286,12 @@ Registration fee: $500.00
 
 [Christchurch Meetup - June 2015](http://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/221412721/)  
 **Presentation:** Does Your Cloud Solution Look Like a Mushroom? - Kim Carter ([@binarymist](https://twitter.com/binarymist))  
-**Event Sponsors:** [http://www.dimensiondata.com/en-NZ Dimension Data] and [http://binarymist.io/ BinaryMist Limited]
+**Event Sponsors:** [Dimension Data](https://www.dimensiondata.com/en) and [BinaryMist](https://binarymist.io/)   
 
-; 25 March 2015
-[http://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/219456317/ OWASP NZ Christchurch Meetup page]
-**Presentation:** Reverse Engineering, Cracking, Compromising Software Security & Mitigations
-**Locations:** Christchurch
-**Presented By:** Rob Gilmour, Senior Software Engineer, Technical Support, JADE Software Corporation Ltd.
+**25 March 2015**
+
+[Christchurch Meetup - June 2015](http://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/219456317/)  
+**Presentation:** Reverse Engineering, Cracking, Compromising Software Security & Mitigations - Rob Gilmour, Senior Software Engineer, Technical Support, JADE Software Corporation Ltd.  
 **Event Sponsors:** [Dimension Data](https://www.dimensiondata.com/en) and [BinaryMist](https://binarymist.io/)   
 
 **26-27 February**
