@@ -288,7 +288,7 @@ Registration fee: $500.00
 **Presentation:** Does Your Cloud Solution Look Like a Mushroom? - Kim Carter ([@binarymist](https://twitter.com/binarymist))  
 **Event Sponsors:** [Dimension Data](https://www.dimensiondata.com/en) and [BinaryMist](https://binarymist.io/)   
 
-**25 March 2015**
+**25 March**
 
 [Christchurch Meetup - June 2015](http://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/219456317/)  
 **Presentation:** Reverse Engineering, Cracking, Compromising Software Security & Mitigations - Rob Gilmour, Senior Software Engineer, Technical Support, JADE Software Corporation Ltd.  
@@ -296,7 +296,7 @@ Registration fee: $500.00
 
 **26-27 February**
 
-[![OWASP NZ Day 2015 - Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2015.jpg)](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2015) 
+[![OWASP NZ Day 2015 - Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2015.png)](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2015) 
 
 [OWASP New Zealand Day 2015](https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2015) - University of Auckland Engineering Department
 
