@@ -291,8 +291,10 @@ Registration fee: $500.00
 **25 March**
 
 [Christchurch Meetup - June 2015](http://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/219456317/)  
-**Presentation:** Reverse Engineering, Cracking, Compromising Software Security & Mitigations - Rob Gilmour, Senior Software Engineer, Technical Support, JADE Software Corporation Ltd.  
+**Presentation:** Reverse Engineering, Cracking, Compromising Software Security & Mitigations - Rob Gilmour, Senior Software Engineer, Technical Support, [Jade Software Corporation Ltd.](https://www.jadeworld.com/)  
 **Event Sponsors:** [Dimension Data](https://www.dimensiondata.com/en) and [BinaryMist](https://binarymist.io/)   
+
+----------------
 
 **26-27 February**
 
@@ -301,58 +303,64 @@ Registration fee: $500.00
 [OWASP New Zealand Day 2015](https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2015) - University of Auckland Engineering Department
 
 * One-day conference, with two tracks in the afternoon, on Friday, 27 February - FREE Registration
-* Pre-Conference Training, Thursday, 26 February - One class offered  
+* Pre-Conference Training, Thursday, 26 February - One class offered
+
+=================  
 
 ### 2014
 
+**26 November**
 
-; 26 November 2014
-[http://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/209420462/ OWASP NZ Christchurch Meetup page]
-**Workshop:** Review SSL/TLS, demo sslstrip and mitigation techniques
-**Locations:** Christchurch
-**Presented By:** [https://twitter.com/kevinnz Kevin Alcock], [https://twitter.com/katiposec Security Consultant] at [https://katiposec.com/ Katipo Security]
-**Co-Sponsor:** [http://www.dimensiondata.com/en-NZ Dimension Data] and [http://binarymist.net/ BinaryMist Limited]
+[Christchurch Meetup - November 2014](http://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/209420462/)    
+**Workshop:** SSL/TLS Review, SSL Stripping Demo, and Mitigation Techniques - Kevin Alcock ([@kevinnz](https://twitter.com/kevinnz)), Security Consultant at [Katipo Security](https://katiposec.com/)  
+**Event Sponsors:** [Dimension Data](https://www.dimensiondata.com/en) and [BinaryMist](https://binarymist.io/)   
 
-; 25 September 2014
-[http://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/198512052/ OWASP NZ Christchurch Meetup page]
-**Workshop:** Review, Exploit and Learn from [https://bytefog.blogspot.co.nz/2015/11/lord-of-flies.html Vulnerable Web App]
-**Locations:** Christchurch
-**Presented By:** [https://twitter.com/t0x0_nz Chris Campbell], Security & Operations Consultant Jade
-**Co-Sponsor:** [http://www.dimensiondata.com/en-NZ Dimension Data] and [http://binarymist.net/ BinaryMist Limited]
+**25 September**
 
-; 24 July 2014
-[http://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/193784032/ OWASP NZ Wellington Meetup page]
-**Workshop:** Web App Security Workshop
-**Locations:** Wellington
-**Presented By:** Adrian Hayes
-**Sponsor:** [http://www.dimensiondata.com/en-NZ Dimension Data]
+[Christchurch Meetup - September 2014](http://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/198512052/)  
+**Workshop:** Review, Exploit, and Learn from the Vulnerable Web App - Chris Campbell, Security & Operations Consultant, JADE
+**Presented By:** [https://twitter.com/t0x0_nz Chris Campbell], Security & Operations Consultant, [Jade Software Corporation Ltd.](https://www.jadeworld.com/)  
+**Event Sponsors:** [Dimension Data](https://www.dimensiondata.com/en) and [BinaryMist](https://binarymist.io/)   
+
+**24 July** 
+
+[Wellington Meetup - July 2014](http://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/193784032/)    
+**Workshop:** Web App Security Workshop - Adrian Hayes
+**Event Sponsor:** [Dimension Data](https://www.dimensiondata.com/en)  
 
 ### 2013
 
-; 19 December 2013
-[http://www.meetup.com/OWASP-New-Zealand-Chapter/events/154075992/ Meetup Link Here]
-**Co-Sponsor:** [http://security-assessment.com Security-Assessment.com] and [http://www.touchpoint.co.nz Touchpoint]
-**Locations:** Wellington, Auckland, Christchurch, Webcast
-**Details:** All details are on the meetup page above
-**Presentation:** [https://www.owasp.org/images/9/9f/Extending-Burp-with-Python.pptx Extending Burp with Python]
-**Presented By:** Mike Haworth, Aura Information Security
+**19 December**
 
-;11th and 12th of September 2013
+[Chapter Meetup - December 2013](http://www.meetup.com/OWASP-New-Zealand-Chapter/events/154075992/)  
+**Presentation:** Extending Burp with Python ([PowerPoint Slide Deck](https://www.owasp.org/images/9/9f/Extending-Burp-with-Python.pptx)) - Mike Haworth, [Aura Information Security](https://www.aurainfosec.com/)  
+**Locations:** Dimension Data offices in Auckland, Christchurch, and Wellington  
+**Event Sponsors:** [Security-Assessment.com](http://security-assessment.com) and [Touchpoint](http://www.touchpoint.co.nz)  
 
-[[File:OWASP_NZ_Day_2013_logo.png|400px|link=https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2013|11th and 12st September 2013 - Auckland Business School
-]]
+------------------
 
-At the Auckland Business School
+**11-12 September**
 
-[[OWASP New Zealand Day 2013|https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2013]]
+[![OWASP NZ Day 2013 - Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2013.jpg)](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2013) 
 
+[OWASP New Zealand Day 2013](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2013) - Auckland Business School  
 
-; 22 May 2013
-[http://www.meetup.com/OWASP-New-Zealand-Chapter/events/115108982/ OWASP Meetup page to RSVP]
-**Co-Sponsor:** [http://security-assessment.com Security-Assessment.com] and [http://www.touchpoint.co.nz Touchpoint]
-**Locations:** Wellington, Auckland, Webcast
-**Details:** All details are on the meetup page above
+* One-day conference, with two tracks in the afternoon, on Thursday, 12 September - FREE Registration
+* Pre-Conference Training, Wednesday, 11 September - Two classes offered  
 
+-------------------
+
+**22 May**
+
+[Chapter Meetup - May 2013](http://www.meetup.com/OWASP-New-Zealand-Chapter/events/115108982/)
+**Presentations:**
+* Secure by Design - Simon Burson
+* The New OWASP Top 10 - Adrian Hayes
+  
+**Locations:** Dimension Data offices in Auckland and Wellington  
+**Event Sponsors:** [Security-Assessment.com](http://security-assessment.com) and [Touchpoint](http://www.touchpoint.co.nz)  
+
+====================
 
 ### 2012
 
