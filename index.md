@@ -26,9 +26,9 @@ The chapter leaders are [Kim Carter](mailto:kim.carter@owasp.org) (Christchurch)
 * [OWASP New Zealand Chapter-Christchurch](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/) 
 * [OWASP New Zealand Chapter-Wellington](https://www.meetup.com/OWASP-Wellington/)
 
----
+-------------
 
-**19 - 21 February**
+#### 19 - 21 February: Eleventh OWASP New Zealand Day
 
 [![OWASP NZ Day - Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2020.jpg)](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2020)
 
@@ -37,11 +37,9 @@ The chapter leaders are [Kim Carter](mailto:kim.carter@owasp.org) (Christchurch)
 * Pre-Conference Training, Wednesday and Thursday, 19-20 February - Nine classes on offer  
 [Training Registration](https://owaspnz2020-training.eventbrite.com) closes 12 February - Registration fees: $325.00 for half-day classes; $625.00 for one-day classes; $1250.00 for two-day classes (plus EventBrite fees)
 
----
+-------------
 
-**10 February**
-
-[Wellington Meetup - February 2020](https://www.meetup.com/OWASP-Wellington/events/268151993/) 
+#### 10 February: [Wellington Meetup](https://www.meetup.com/OWASP-Wellington/events/268151993/) 
 
 **Presentation:** Introduction to the OWASP Top Ten - Kirk Jackson  
 **When:** Monday, 10 February; Gather at 5:30 p.m.; Talk starts at 6:00 p.m.  
