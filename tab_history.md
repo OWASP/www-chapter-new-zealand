@@ -73,7 +73,7 @@ OWASP NZ is proud to invite you to our first [security.ac.nz](https://security.a
 
 -------------------
 
-#### 21 - 22 February: Tenth OWASP New Zealand Day Conference
+#### 21 - 22 February: Tenth OWASP New Zealand Day
 
 [![OWASP NZ Day 2019 - Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2019.jpg)](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2019)
 
@@ -160,7 +160,7 @@ Registration fees: $250.00 for half-day classes; $500.00 for full-day classes
 
 -------------------
 
-#### 4 - 5 February: Ninth OWASP New Zealand Day Conference
+#### 4 - 5 February: Ninth OWASP New Zealand Day
 
 [![OWASP NZ Day 2018 - Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2018.jpg)](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2018)
 
@@ -210,7 +210,7 @@ Registration fee: $500.00
 
 -------------------
 
-#### 19 - 20 April: Eighth OWASP New Zealand Day Conference
+#### 19 - 20 April: Eighth OWASP New Zealand Day
 
 [![OWASP NZ Day 2017 - Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2017.jpg)](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2017)
 
@@ -295,7 +295,7 @@ Registration fee: $500.00
 
 -------------------
 
-#### 3-4 February: Seventh OWASP New Zealand Day Conference
+#### 3-4 February: Seventh OWASP New Zealand Day
 
 [![OWASP NZ Day 2016 - Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2016.jpg)](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2016) 
 
@@ -337,7 +337,7 @@ Registration fee: $500.00
 
 ----------------
 
-#### 26-27 February: Sixth OWASP New Zealand Day Conference
+#### 26-27 February: Sixth OWASP New Zealand Day
 
 [![OWASP NZ Day 2015 - Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2015.png)](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2015) 
 
@@ -381,7 +381,7 @@ Registration fee: $500.00
 
 ------------------
 
-#### 11-12 September: Fifth OWASP New Zealand Day Conference
+#### 11-12 September: Fifth OWASP New Zealand Day
 
 [![OWASP NZ Day 2013 - Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2013.jpg)](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2013) 
 
@@ -405,7 +405,7 @@ Registration fee: $500.00
 
 ### 2012
 
-#### 30-31 August: Fourth OWASP New Zealand Day Conference
+#### 30-31 August: Fourth OWASP New Zealand Day
 
 [![OWASP NZ Day 2012 - Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2012.png)](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2012) 
 
@@ -459,7 +459,7 @@ Registration fee: $500.00
 
 -------------------
 
-#### 7 July: Third OWASP New Zealand Day Conference
+#### 7 July: Third OWASP New Zealand Day
 
 [![OWASP NZ Day 2011 - Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2011.png)](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2011) 
 
@@ -483,7 +483,7 @@ Registration fee: $500.00
 
 ### 2010
 
-#### 15 July: Second OWASP New Zealand Day Conference
+#### 15 July: Second OWASP New Zealand Day
 
 [![OWASP NZ Day 2010 - Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2010.jpg)](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2010) 
 
@@ -595,7 +595,7 @@ Registration fee: $500.00
 
 **Presentations:** 
 
-* Ajax Security ([Slides](http://malerisch.net/docs/ajax_security/Ajax_security.ppt Ajax Security)) - Roberto Suggi Liverani, Security-assessment.com
+* Ajax Security ([Slides](http://malerisch.net/docs/ajax_security/Ajax_security.ppt)) - Roberto Suggi Liverani, Security-assessment.com
 * On-the-job Browser Exploitation - Mark Piper, Security-assessment.com   
 
 **Event Sponsor:** Veda Advantage   
@@ -604,7 +604,7 @@ Registration fee: $500.00
 
 #### 22 May: Auckland Meetup
 
-**Presentation:** OWASP in New Zealand - Roberto Suggi Liverani and Antonio Spera
+**Presentation:** OWASP in New Zealand - Roberto Suggi Liverani and Antonio Spera   
 **Event Sponsor:** Veda Advantage      
 
 **January and April**
