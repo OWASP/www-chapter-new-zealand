@@ -269,39 +269,40 @@ Registration fee: $500.00
 
 ### 2015
 
-; 25 November 2015
-[http://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/225737100/ OWASP NZ Christchurch Meetup page]
-**Presentation:** UAC, Governance and Managing the External Infosec Audit
-**Locations:** Christchurch
-**Presented By:** Drewe Hinkley
-**Co-Sponsor:** [http://www.dimensiondata.com/en-NZ Dimension Data] and [http://binarymist.io/ BinaryMist Limited]
+**25 November**
 
-; 30 September 2015
-[http://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/223462991/ OWASP NZ Christchurch Meetup page]
-**Two part Presentation:** The Exploited and the Exploiters - Case Study of a Real Cyber Hack and Live Demo's from [https://leanpub.com/b/holisticinfosecforwebdevelopers Kims book]
-**Locations:** Christchurch
-**Presented By:** Salinda Lekamge and [https://twitter.com/binarymist Kim Carter]
+[Christchurch Meetup - November 2015](http://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/225737100/)    
+**Presentation:** UAC, Governance, and Managing the External Infosec Audit - Drewe Hinkley  
+**Event Sponsors:** [Dimension Data](https://www.dimensiondata.com/en) and [BinaryMist](https://binarymist.io/)   
 
-; 24 June 2015
-[http://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/221412721/ OWASP NZ Christchurch Meetup page]
-**Presentation:** "[http://blog.binarymist.net/presentations-publications/#does-your-cloud-solution-look-like-a-mushroom Does Your Cloud Solution Look Like a Mushroom]".
-**Locations:** Christchurch
-**Presented By:** [https://twitter.com/binarymist Kim Carter].
-**Co-Sponsor:** [http://www.dimensiondata.com/en-NZ Dimension Data] and [http://binarymist.io/ BinaryMist Limited]
+**30 September**
+
+[Christchurch Meetup - September 2015](http://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/223462991/)  
+**Presentations:**
+* The Exploited and the Exploiters: Case Study of a Real Cyber Hack - Salinda Lekamge
+* Live Demo's from *[Holistic InfoSec for Web Developers](https://leanpub.com/b/holisticinfosecforwebdevelopers)* - Kim Carter ([@binarymist](https://twitter.com/binarymist))  
+
+**24 June**
+
+[Christchurch Meetup - June 2015](http://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/221412721/)  
+**Presentation:** Does Your Cloud Solution Look Like a Mushroom? - Kim Carter ([@binarymist](https://twitter.com/binarymist))  
+**Event Sponsors:** [http://www.dimensiondata.com/en-NZ Dimension Data] and [http://binarymist.io/ BinaryMist Limited]
 
 ; 25 March 2015
 [http://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/219456317/ OWASP NZ Christchurch Meetup page]
 **Presentation:** Reverse Engineering, Cracking, Compromising Software Security & Mitigations
 **Locations:** Christchurch
 **Presented By:** Rob Gilmour, Senior Software Engineer, Technical Support, JADE Software Corporation Ltd.
-**Co-Sponsor:** [http://www.dimensiondata.com/en-NZ Dimension Data] and [http://binarymist.io/ BinaryMist Limited]
+**Event Sponsors:** [Dimension Data](https://www.dimensiondata.com/en) and [BinaryMist](https://binarymist.io/)   
 
-;26th and 27th of February 2015
+**26-27 February**
 
-[[File:OWASP_NZ_Day_2015_logo_small.png|400px|link=https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2015|26th and 26th February 2015 - University of Auckland Engineering Department
-]]
+[![OWASP NZ Day 2015 - Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2015.jpg)](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2015) 
 
-At the University of Auckland Engineering Department
+[OWASP New Zealand Day 2015](https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2015) - University of Auckland Engineering Department
+
+* One-day conference, with two tracks in the afternoon, on Friday, 27 February - FREE Registration
+* Pre-Conference Training, Thursday, 26 February - One class offered  
 
 ### 2014
 
