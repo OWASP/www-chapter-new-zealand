@@ -30,7 +30,7 @@ The chapter leaders are [Kim Carter](mailto:kim.carter@owasp.org) (Christchurch)
 
 #### 19 - 21 February: Eleventh OWASP New Zealand Day
 
-[![OWASP NZ Day - Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2020.jpg)](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2020)
+[![OWASP NZ Day - Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2020.jpg)](conference/)
 
 **[OWASP New Zealand Day 2020](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2020)** - University of Auckland Business School
 * One-day conference, with three tracks, on Friday, 21 February - [Conference Registration](https://owaspnz2020.eventbrite.com) is FREE
