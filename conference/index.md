@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: Conference
+title: OWASP New Zealand > Conference
 
 ---
 
