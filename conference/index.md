@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP NZ Day 2020
+title: Conference
 
 ---
 
