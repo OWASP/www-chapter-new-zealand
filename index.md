@@ -39,14 +39,6 @@ The chapter leaders are [Kim Carter](mailto:kim.carter@owasp.org) (Christchurch)
 
 -------------
 
-#### 10 February: [Wellington Meetup](https://www.meetup.com/OWASP-Wellington/events/268151993/) 
-
-**Presentation:** Introduction to the OWASP Top Ten - Kirk Jackson  
-**When:** Monday, 10 February; Gather at 5:30 p.m.; Talk starts at 6:00 p.m.  
-**Location:** RedShield House, 79 Boulcott St., Wellington, and **[YouTube Live Stream](https://www.youtube.com/watch?v=bZgjUXAjNao)**
-
----
-
 ### Keeping in Touch
 
   - Chapter Mailing List (Google Groups):
