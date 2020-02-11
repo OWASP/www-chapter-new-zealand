@@ -15,7 +15,7 @@ tags: owaspnz
 #### 10 February: [Wellington Meetup](https://www.meetup.com/OWASP-Wellington/events/268151993/) 
 
 **Presentation:** Introduction to the OWASP Top Ten - Kirk Jackson  
-**Location:** RedShield House, 79 Boulcott St., Wellington
+**Location:** RedShield House, 79 Boulcott St., Wellington 
 **Video:** [YouTube Recording](https://www.youtube.com/watch?v=bZgjUXAjNao)
 
 ### 2019
