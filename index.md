@@ -26,16 +26,20 @@ The chapter leaders are [Kim Carter](mailto:kim.carter@owasp.org) (Christchurch)
 * [OWASP New Zealand Chapter-Christchurch](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/) 
 * [OWASP New Zealand Chapter-Wellington](https://www.meetup.com/OWASP-Wellington/)
 
--------------
+#### 28 - 30 April: Virtual AppSec Days
 
-#### 19 - 21 February: Eleventh OWASP New Zealand Day
+* Mini conference on 28 April (Starting at 12:00 noon, Monday 27 April, US EDT)
+* Four-hour training classes on 29 and 30 April (Starting at 12:00 noon and 5:00 p.m., Tuesday and Wednesday, US EDT)
+* Agenda and registration TBC
 
-[![OWASP NZ Day - Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2020.jpg)](/www-event-2020-NewZealandDay)
+--------------
 
-**[OWASP New Zealand Day 2020](/www-event-2020-NewZealandDay)** - University of Auckland Business School
-* One-day conference, with three tracks, on Friday, 21 February - [Conference Registration](https://owaspnz2020.eventbrite.com) is FREE
-* Pre-Conference Training, Wednesday and Thursday, 19-20 February - Nine classes on offer  
-[Training Registration](https://owaspnz2020-training.eventbrite.com) closes 12 February - Registration fees: $325.00 for half-day classes; $625.00 for one-day classes; $1250.00 for two-day classes (plus EventBrite fees)
+#### 12 May: [Auckland Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/268972343/) 
+
+**Top Ten Discussion:** A8 - Insecure Deserialization - Led by John DiLeo ([@gr4ybeard](https://twitter.com/gr4ybeard))   
+**Technical Discussion:** TBC   
+**Location:** TBC   
+**Time:** 6:30 p.m.    
 
 -------------
 

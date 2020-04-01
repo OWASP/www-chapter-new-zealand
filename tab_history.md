@@ -11,6 +11,24 @@ tags: owaspnz
 
 ### 2020
 
+#### 10 March: [Auckland Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/268972336/) 
+
+**Top Ten Discussion:** A7 - Cross-Site Scripting (XSS) - Led by John DiLeo
+**Technical Discussion:** "Ask Me Anything" about OWASP Projects and Tools - John DiLeo ([@gr4ybeard](https://twitter.com/gr4ybeard))  
+**Location:** Orion Health, 181 Grafton Road, Grafton, Auckland
+
+-------------
+
+#### 19 - 21 February: Eleventh OWASP New Zealand Day
+
+[![OWASP NZ Day - Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2020.jpg)](/www-event-2020-NewZealandDay)
+
+**[OWASP New Zealand Day 2020](/www-event-2020-NewZealandDay)** - University of Auckland Business School
+* One-day conference, with three tracks, on Friday, 21 February - [Conference Registration](https://owaspnz2020.eventbrite.com) is FREE
+* Pre-Conference Training, Wednesday and Thursday, 19-20 February - Nine classes on offer  
+[Training Registration](https://owaspnz2020-training.eventbrite.com) closes 12 February - Registration fees: $325.00 for half-day classes; $625.00 for one-day classes; $1250.00 for two-day classes (plus EventBrite fees)
+
+-------------
 
 #### 10 February: [Wellington Meetup](https://www.meetup.com/OWASP-Wellington/events/268151993/) 
 
