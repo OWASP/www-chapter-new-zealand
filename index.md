@@ -6,6 +6,9 @@ tags: owaspnz
 currency: nzd
 
 region: Oceania
+meetup-group: OWASP-Wellington
+country: New Zealand
+postal-code: 
 
 ---
 
