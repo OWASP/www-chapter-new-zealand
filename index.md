@@ -6,7 +6,12 @@ tags: owaspnz
 currency: nzd
 
 region: Oceania
-meetup-group: OWASP-Wellington
+meetup-city1: Auckland
+meetup-city2: Christchurch
+meetup-city3: Wellington
+meetup-group1: OWASP-New-Zealand-Chapter-Auckland
+meetup-group2: OWASP-New-Zealand-Chapter-Christchurch
+meetup-group3: OWASP-Wellington
 country: New Zealand
 postal-code: 
 
@@ -16,33 +21,32 @@ postal-code:
 
 Welcome to the OWASP New Zealand Chapter home page.
 
-The OWASP New Zealand Chapter has been active since 2007. In addition to our annual [OWASP New Zealand Day](https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2020) conference, we organise local Meetups and training events throughout the year.
+The OWASP New Zealand Chapter has been active since 2007. In addition to supporting and participating in the annual [AppSec New Zealand Conference](https://appsec.org.nz/conference), we organise local Meetups and training events throughout the year.
 
 The chapter leaders are [Kim Carter](mailto:kim.carter@owasp.org) (Christchurch), [Kirk Jackson](mailto:kirk.jackson@owasp.org)
 (Wellington), and [John DiLeo](mailto:john.dileo@owasp.org) (Auckland).
 
 ## Upcoming Events
 
+### Upcoming Meetup Events in {%= page.meetup-city1 %}:
+
+{% include chapter_events.html group=page.meetup-group1 %}
+
+* Visit/Join the [{%= page.meetup-city1 %} Meetup Group](https://www.meetup.com/{%= page.meetup-group1 %}/)
+
+### Upcoming Meetup Events in {%= page.meetup-city3 %}:
+
+{% include chapter_events.html group=page.meetup-group3 %}
+
+* Visit/Join the [{%= page.meetup-city3 %} Meetup Group](https://www.meetup.com/{%= page.meetup-group3 %}/)
+
+<!--
 ### Local Meetup Links
 
 * [OWASP New Zealand Chapter-Auckland](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/) 
 * [OWASP New Zealand Chapter-Christchurch](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/) 
 * [OWASP New Zealand Chapter-Wellington](https://www.meetup.com/OWASP-Wellington/)
-
-#### 28 - 30 April: Virtual AppSec Days
-
-* Mini conference on 28 April (Starting at 12:00 noon, Monday 27 April, US EDT)
-* Four-hour training classes on 29 and 30 April (Starting at 12:00 noon and 5:00 p.m., Tuesday and Wednesday, US EDT)
-* Agenda and registration TBC
-
---------------
-
-#### 12 May: [Auckland Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/268972343/) 
-
-**Top Ten Discussion:** A8 - Insecure Deserialization - Led by John DiLeo ([@gr4ybeard](https://twitter.com/gr4ybeard))   
-**Technical Discussion:** TBC   
-**Location:** TBC   
-**Time:** 6:30 p.m.    
+-->
 
 -------------
 
@@ -70,7 +74,7 @@ Our Call For Speakers is always open. If you would like to present a talk releva
 
 ### Call for Organisers
 
-OWASP New Zealand currently has active Meetups in three cities - Auckland, Christchurch, and Wellington. If you're interested in helping organise one of our Meetups, please contact the Chapter Leader in that city.
+OWASP New Zealand currently has active Meetups in two cities - Auckland and Wellington. If you're interested in helping organise one of our Meetups (or revitalising our Christchurch Meetup), please contact the Chapter Leader in that city.
 
 If you are located in another New Zealand city, and would be willing and able to host a Meetup there (at least four times per year), then we'd love to hear from you.
 

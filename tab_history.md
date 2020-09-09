@@ -11,6 +11,34 @@ tags: owaspnz
 
 ### 2020
 
+#### 8 September: [Auckland Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/272855409/) 
+
+**Top Ten Overview:** A1 - Injection - John DiLeo ([@gr4ybeard](https://twitter.com/gr4ybeard))   
+**Technical Presentation:** Failing Fast - Laura Bell, SafeStack ([@lady_nerd](https://twitter.com/lady_nerd))   
+**Location:** Grid/AKL (101 Pakenham Street West, Auckland CBD) and YouTube Live Stream   
+**Time:** 6:00 p.m.    
+
+**Failing Fast: The impact of bias when speeding up application security**     
+**Abstract:** There is a lot of talk these days about going faster with security, DevSecOps, and making security part of your lifecycle. In this talk, we will explore three common mistakes teams make when embracing application security at speed and how you can avoid making them.
+
+-------------
+
+#### 14 July: [Auckland Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/268972354/) 
+
+**Top Ten Discussion:** A10 - Insufficient Logging and Monitoring - Led by John DiLeo ([@gr4ybeard](https://twitter.com/gr4ybeard))   
+**Technical Discussion:** Weaving OWASP Tools into Your AppSec Programme - John DiLeo   
+**Location:** Grid/AKL, 101 Pakenham Street West, Auckland CBD   
+**Time:** 6:00 p.m.    
+
+-------------
+
+#### 28 - 30 April: [Virtual AppSec Days](https://owasp.org/2020/04/07/AppSecDaysApril)
+
+* Mini conference on 28 April (Starting at 12:00 noon, Monday 27 April, US EDT)
+* Four-hour training classes on 29 and 30 April (Starting at 12:00 noon and 5:00 p.m., Tuesday and Wednesday, US EDT)
+
+--------------
+
 #### 10 March: [Auckland Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/268972336/) 
 
 **Top Ten Discussion:** A7 - Cross-Site Scripting (XSS) - Led by John DiLeo
