@@ -28,17 +28,17 @@ The chapter leaders are [Kim Carter](mailto:kim.carter@owasp.org) (Christchurch)
 
 ## Upcoming Events
 
-### Upcoming Meetup Events in {%= page.meetup-city1 %}:
+### Upcoming Meetup Events in {{ page.meetup-city1 }}:
 
 {% include chapter_events.html group=page.meetup-group1 %}
 
-* Visit/Join the [{%= page.meetup-city1 %} Meetup Group](https://www.meetup.com/{%= page.meetup-group1 %}/)
+* Visit/Join the [{{ page.meetup-city1 }} Meetup Group](https://www.meetup.com/{{ page.meetup-group1 }}/)
 
-### Upcoming Meetup Events in {%= page.meetup-city3 %}:
+### Upcoming Meetup Events in {{ page.meetup-city3 }}:
 
 {% include chapter_events.html group=page.meetup-group3 %}
 
-* Visit/Join the [{%= page.meetup-city3 %} Meetup Group](https://www.meetup.com/{%= page.meetup-group3 %}/)
+* Visit/Join the [{{ page.meetup-city3 }} Meetup Group](https://www.meetup.com/{{ page.meetup-group3 }}/)
 
 <!--
 ### Local Meetup Links
