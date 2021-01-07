@@ -59,7 +59,7 @@ The chapter leaders are [Kim Carter](mailto:kim.carter@owasp.org) (Christchurch)
   - [InfoSecNZ Workspace](https://infosecnz.slack.com) on Slack - Be
     sure to join the \#events channel for calendar notices (NOTE: By
     design, we do not maintain a separate Slack Workspace for the New
-    Zealand chapter)
+    Zealand chapter). Reach out to one of the [InfoSecNZ admins](https://github.com/binarymist/InfoSecNZ#join-infosecnz) if you would like an account
   - Follow us on [Twitter](https://www.twitter.com/owaspnz) (@owaspnz)
 
 ### Some Global OWASP Resources:
