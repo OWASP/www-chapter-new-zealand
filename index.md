@@ -34,25 +34,17 @@ The chapter leaders are [Kim Carter](mailto:kim.carter@owasp.org) (Christchurch)
 
 * Visit/Join the [{{ page.meetup-city1 }} Meetup Group](https://www.meetup.com/{{ page.meetup-group1 }}/)
 
-### Upcoming Meetup Events in {{ page.meetup-city3 }}:
-
-{% include chapter_events_3.html group=page.meetup-group3 %}
-
-* Visit/Join the [{{ page.meetup-city3 }} Meetup Group](https://www.meetup.com/{{ page.meetup-group3 }}/)
-
 ### Upcoming Meetup Events in {{ page.meetup-city2 }}:
 
 {% include chapter_events.html group=page.meetup-group2 %}
 
 * Visit/Join the [{{ page.meetup-city2 }} Meetup Group](https://www.meetup.com/{{ page.meetup-group2 }}/)
 
-<!--
-### Local Meetup Links
+### Upcoming Meetup Events in {{ page.meetup-city3 }}:
 
-* [OWASP New Zealand Chapter-Auckland](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/) 
-* [OWASP New Zealand Chapter-Christchurch](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/) 
-* [OWASP New Zealand Chapter-Wellington](https://www.meetup.com/OWASP-Wellington/)
--->
+{% include chapter_events_3.html group=page.meetup-group3 %}
+
+* Visit/Join the [{{ page.meetup-city3 }} Meetup Group](https://www.meetup.com/{{ page.meetup-group3 }}/)
 
 -------------
 
