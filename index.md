@@ -9,7 +9,7 @@ region: Oceania
 meetup-city1: Auckland
 meetup-city2: Christchurch
 meetup-city3: Wellington
-meetup-group: OWASP-New-Zealand-Chapter-Auckland
+meetup-group: OWASP-New-Zealand-Chapter-Christchurch
 meetup-group1: OWASP-New-Zealand-Chapter-Auckland
 meetup-group2: OWASP-New-Zealand-Chapter-Christchurch
 meetup-group3: OWASP-Wellington
