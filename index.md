@@ -24,7 +24,7 @@ Welcome to the OWASP New Zealand Chapter home page.
 
 The OWASP New Zealand Chapter has been active since 2007. In addition to supporting and participating in the annual [AppSec New Zealand Conference](https://appsec.org.nz/conference), we organise local Meetups and training events throughout the year.
 
-The chapter leaders are [Kim Carter](mailto:kim.carter@owasp.org) (Christchurch), [Kirk Jackson](mailto:kirk.jackson@owasp.org)
+The chapter leaders are [Pete Nicholls](mailto:pete.nicholls@owasp.org) (Christchurch), [Kirk Jackson](mailto:kirk.jackson@owasp.org)
 (Wellington), and [John DiLeo](mailto:john.dileo@owasp.org) (Auckland).
 
 ## Upcoming Events
