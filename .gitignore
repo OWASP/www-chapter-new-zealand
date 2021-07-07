@@ -4,3 +4,5 @@ env
 /.project
 /migrated_content.md
 .DS_Store
+
+_site/
