@@ -6,15 +6,7 @@ tags: owaspnz
 currency: nzd
 
 region: Oceania
-meetup-city1: Auckland
-meetup-city2: Christchurch
-meetup-city3: Wellington
-meetup-group: OWASP-New-Zealand-Chapter-Christchurch
-meetup-group1: OWASP-New-Zealand-Chapter-Auckland
-meetup-group2: OWASP-New-Zealand-Chapter-Christchurch
-meetup-group3: OWASP-Wellington
 country: New Zealand
-postal-code: 
 
 ---
 
@@ -29,23 +21,58 @@ The chapter leaders are [Pete Nicholls](mailto:pete.nicholls@owasp.org) (Christc
 
 ## Upcoming Events
 
-### Upcoming Meetup Events in {{ page.meetup-city1 }}:
+### Upcoming Meetup Events in Auckland:
 
-{% include chapter_events_1.html group=page.meetup-group1 %}
+#### Tuesday, 20 September: [Auckland Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/284791396/) 
 
-* Visit/Join the [{{ page.meetup-city1 }} Meetup Group](https://www.meetup.com/{{ page.meetup-group1 }}/)
+**Top Ten 2021 Topic:** A4 - Insecure Design - John DiLeo ([@gr4ybeard](https://twitter.com/gr4ybeard), [LinkedIn](https://www.linkedin.com/in/john-dileo/))   
+**Technical Presentation:** Unicode Security: How Emojis Can Be Bad for AppSec - Dr. Pedram Hayati, Founder, [SecTalks.org](https://www.sectalks.org/) and [SecDim.com](https://secdim.com/) ([LinkedIn](https://www.linkedin.com/in/pedram-hayati-07b2b525/))   
+**Location:** Westpac New Zealand (16 Takutai Square, Auckland CBD)   
+**Time:** 6:00 p.m.    
 
-### Upcoming Meetup Events in {{ page.meetup-city2 }}:
+**Unicode Security: How Emojis Can Be Bad for AppSec**     
+**Abstract:** Coming soon   
+**Speaker Bio:** Coming soon   
 
-{% include chapter_events.html group=page.meetup-group2 %}
+-------------
 
-* Visit/Join the [{{ page.meetup-city2 }} Meetup Group](https://www.meetup.com/{{ page.meetup-group2 }}/)
+#### Tuesday, 8 November: [Auckland Meetup](https://www.meetup.com/owasp-new-zealand-chapter-auckland/events/284791414/) 
 
-### Upcoming Meetup Events in {{ page.meetup-city3 }}:
+**Top Ten 2021 Topic:** A5 - Security Misconfiguration - John DiLeo ([@gr4ybeard](https://twitter.com/gr4ybeard), [LinkedIn](https://www.linkedin.com/in/john-dileo/))   
+**Technical Presentation:** TBC   
+**Location:** TBC   
+**Time:** 6:00 p.m.    
 
-{% include chapter_events_3.html group=page.meetup-group3 %}
+-------------
 
-* Visit/Join the [{{ page.meetup-city3 }} Meetup Group](https://www.meetup.com/{{ page.meetup-group3 }}/)
+* Visit/Join the [Auckland Meetup Group](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/)
+
+### Upcoming Meetup Events in Christchurch:
+
+#### Wednesday, 24 August: [Christchurch Meetup](https://www.meetup.com/owasp-new-zealand-chapter-christchurch/events/287178913/) 
+
+**Technical Presentation:** The New Top 10 Web App Security Risks - Kevin Alcock, Datacom ([@kevinnz](https://twitter.com/kevinnz), [LinkedIn](https://www.linkedin.com/in/kevinnz/))  
+**Location:** Inde Technology ([175 Roydvale Avenue, Burnside, Christchurch](https://www.google.com/maps/place/Inde+Technology/@-36.849761,174.7628903,15z/data=!3m1!4b1!4m5!3m4!1s0x6d318b63ae233e93:0xcbf1ab06da352ef7!8m2!3d-43.4903869!4d172.5644989))   
+**Time:** 7:00 p.m.    
+
+**The New Top 10 Web AppSecurity Risks**     
+**Abstract:** 
+
+All web app developers should know the OWASP Top 10 – a list of the biggest cybersecurity concerns that commonly appear in web applications.
+
+Every few years, the list is updated based on feedback from the community, observations in the wild, and changes to the threat landscape.
+
+The list was recently updated, and in this talk, Kevin will run us through those changes and help us to build (or break) modern web applications.
+   
+-------------
+
+* Visit/Join the [Christchurch Meetup Group](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/)
+
+### Upcoming Meetup Events in Wellington:
+
+Next Meetup planned in October - Details TBC
+
+* Visit/Join the [Wellington Meetup Group](https://www.meetup.com/OWASP-Wellington/)
 
 -------------
 
@@ -73,7 +100,7 @@ Our Call For Speakers is always open. If you would like to present a talk releva
 
 ### Call for Organisers
 
-OWASP New Zealand currently has active Meetups in two cities - Auckland and Wellington. If you're interested in helping organise one of our Meetups (or revitalising our Christchurch Meetup), please contact the Chapter Leader in that city.
+OWASP New Zealand currently has active Meetups in three cities - Auckland, Christchurch, and Wellington. If you're interested in helping organise one of our Meetups, please contact the Chapter Leader in that city.
 
 If you are located in another New Zealand city, and would be willing and able to host a Meetup there (at least four times per year), then we'd love to hear from you.
 

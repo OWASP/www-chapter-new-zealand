@@ -9,7 +9,86 @@ tags: owaspnz
 
 ## Past Events
 
+### 2022
+
+#### Tuesday, 20 September: [Auckland Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/284791396/) 
+
+**Top Ten 2021 Topic:** A4 - Insecure Design - John DiLeo ([@gr4ybeard](https://twitter.com/gr4ybeard), [LinkedIn](https://www.linkedin.com/in/john-dileo/))   
+**Technical Presentation:** Unicode Security: How Emojis Can Be Bad for AppSec - Dr. Pedram Hayati, Founder, [SecTalks.org](https://www.sectalks.org/) and [SecDim.com](https://secdim.com/) ([LinkedIn](https://www.linkedin.com/in/pedram-hayati-07b2b525/))   
+**Location:** Westpac New Zealand (16 Takutai Square, Auckland CBD)   
+**Time:** 6:00 p.m.    
+
+**Unicode Security: How Emojis Can Be Bad for AppSec**     
+**Abstract:** Coming soon   
+**Speaker Bio:** Coming soon   
+
+-------------
+
+#### 5 - 8 July: Twelfth OWASP New Zealand Day
+
+[![OWASP NZ Day - Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2022.jpg)](https://appsec.org.nz/conference/)
+
+**[OWASP New Zealand Day 2022](https://appsec.org.nz/conference/)** - Auckland University of Technology (AUT) City Campus   
+* Two-day conference, with two tracks, on Thursday and Friday, 7-8 July   
+* Pre-Conference Training, Tuesday and Wednesday, 5-6 July - Five (5) classes presented      
+
+-------------
+
+
+
+### 2021
+
+#### 30 June: [Christchurch Meetup](https://www.meetup.com/owasp-new-zealand-chapter-christchurch/events/277289990/)
+   
+**Presentation:** Incident Response and Application Intrusion Detection - Kim Carter and Chris C.   
+**Location:** Trineo Limited (181 High Street, Christchurch Central)   
+
+-------------------
+
+#### 31 March: [Christchurch Meetup](https://www.meetup.com/owasp-new-zealand-chapter-christchurch/events/275597430/)
+   
+**Open Discussions:** 
+
+* COVID - What's Changed, and Needs to Change, in InfoSec
+* Planning the Meetup's calendar for the year
+
+**Location:** Trineo Limited (181 High Street, Christchurch Central)   
+
+-------------------
+
+#### 10 - 13 February: 2021 AppSec New Zealand Conference
+
+[![OWASP NZ Day - Web Banner](assets/images/Web_Banner-AppSec_NZ_Conference_2021.jpg)](https://appsec.org.nz/conference-2021/)
+
+**[2021 AppSec New Zealand Conference](https://appsec.org.nz/conference-2021/)** - Sir Owen G. Glenn Building, University of Auckland   
+* Two-day conference, with two tracks, on Friday and Saturday, 12-13 February   
+* Pre-Conference Training, Wednesday and Thursday, 10-11 February - Seven (7) classes presented      
+
+-------------
+
+
+
 ### 2020
+
+#### 24 October: [Wellington Training Day](https://www.meetup.com/owasp-wellington/events/273866590/) 
+
+**Training Class:** Threat Modelling: From None to Done - John DiLeo, OWASP New Zealand   
+**Location:** RedShield (79 Boulcott Street, Wellington Central)   
+**Time:** 8:45 a.m. - 5:30 p.m.    
+
+-------------
+
+#### 10 October: [Auckland Training Day](https://www.meetup.com/owasp-new-zealand-chapter-auckland/events/271955299/) 
+
+**Training Classes:** 
+
+* A Cat, a Dog, and a Roast Turkey: What's in Your Threat Model? - Wade Winright, Salesforce
+* Secure Your SDLC using OWASP SAMM - ASAP! - John DiLeo, OWASP New Zealand   
+   
+**Location:** Grid/AKL, John Lysaght Building (101 Pakenham Street West, Auckland CBD)   
+**Time:** 8:45 a.m. - 5:30 p.m.    
+
+-------------
 
 #### 8 September: [Auckland Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/272855409/) 
 
@@ -32,12 +111,24 @@ tags: owaspnz
 
 -------------
 
-#### 28 - 30 April: [Virtual AppSec Days](https://owasp.org/2020/04/07/AppSecDaysApril)
+#### Monday, 6 April: [Wellington Meetup](https://www.meetup.com/owasp-wellington/events/268638688/) 
 
-* Mini conference on 28 April (Starting at 12:00 noon, Monday 27 April, US EDT)
-* Four-hour training classes on 29 and 30 April (Starting at 12:00 noon and 5:00 p.m., Tuesday and Wednesday, US EDT)
+**Presentation:** Introduction to OWASP JuiceShop - Nick Malcolm ([@nickmalcolm](https://twitter.com/nickmalcolm), [LinkedIn](https://www.linkedin.com/in/nickmalcolm/))   
+**Location:** Online Event   
+**Time:** 6:00 p.m.    
 
---------------
+**Introduction to OWASP JuiceShop**     
+**Abstract:** 
+
+[OWASP Juice Shop 101](https://www.youtube.com/watch?v=8ZYoe0xu6QY) (YouTube)
+
+From the Juice Shop website: "OWASP Juice Shop is probably the most modern and sophisticated insecure web application! It can be used in security trainings, awareness demos, CTFs and as a guinea pig for security tools! Juice Shop encompasses vulnerabilities from the entire OWASP Top Ten along with many other security flaws found in real-world applications!"
+
+[JuiceShop Project Page](https://owasp.org/www-project-juice-shop/) (OWASP.org)
+
+We hope that you are keeping safe, and that this topic might inspire you to try out the Juice Shop and search for vulnerabilities.  
+
+-------------
 
 #### 10 March: [Auckland Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/268972336/) 
 
@@ -52,9 +143,8 @@ tags: owaspnz
 [![OWASP NZ Day - Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2020.jpg)](/www-event-2020-NewZealandDay)
 
 **[OWASP New Zealand Day 2020](/www-event-2020-NewZealandDay)** - University of Auckland Business School
-* One-day conference, with three tracks, on Friday, 21 February - [Conference Registration](https://owaspnz2020.eventbrite.com) is FREE
-* Pre-Conference Training, Wednesday and Thursday, 19-20 February - Nine classes on offer  
-[Training Registration](https://owaspnz2020-training.eventbrite.com) closes 12 February - Registration fees: $325.00 for half-day classes; $625.00 for one-day classes; $1250.00 for two-day classes (plus EventBrite fees)
+* One-day conference, with three tracks, on Friday, 21 February   
+* Pre-Conference Training, Wednesday and Thursday, 19-20 February - Nine classes presented      
 
 -------------
 
@@ -81,6 +171,13 @@ tags: owaspnz
 **Event Sponsor and Host:** [Middleware NZ](https://www.middleware.co.nz/#/)
 **Venue Host:** Simon White  
 **Location:** Middleware NZ, 104 Quay Street, CBD, Auckland
+
+-------------------
+
+#### 25 September: [Christchurch Meetup](https://www.meetup.com/owasp-new-zealand-chapter-christchurch/events/264437855/)
+  
+**Secure Coding Tournament**   
+**Location:** Catalyst IT Limited (Level 1, 284 Kilmore Street, Christchurch Central)   
 
 -------------------
 
@@ -129,6 +226,15 @@ OWASP NZ is proud to invite you to our first [security.ac.nz](https://security.a
 
 -------------------
 
+#### 25 March: [Wellington Meetup](https://www.meetup.com/owasp-wellington/events/259249952/)
+   
+**Technical Presentation:** Safety First - Simon Erkelens ([@Firesphere](https://twitter.com/Firesphere))    
+**Location:** Aura Information Security (Level 2, 117 Lambton Quay, Wellington Central)   
+
+The internet is a dangerous place, but what can you as a developer or (project) manager do to make it that little bit safer? A high level overview of best practices and practical advise you can give to clients, colleagues and users to make the Internet a bit safer, as well as a few in-depth insights. HTTPS, Passwords, and Social engineering, and more will be discussed.
+
+-------------------
+
 #### 21 - 22 February: Tenth OWASP New Zealand Day
 
 [![OWASP NZ Day 2019 - Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2019.jpg)](https://wiki.owasp.org/index.php/OWASP_New_Zealand_Day_2019)
@@ -162,6 +268,13 @@ Registration fees: $250.00 for half-day classes; $500.00 for full-day classes
 **Technical Topic:** Integrating the Weakforced Security API - Steve Shipway, SMX Email  
 **Event Sponsor and Host:** [Cornerstone On-Demand](https://www.cornerstoneondemand.com/)  
 **Location:** Cornerstone On-Demand, Level 1, 29 Union Street, Auckland
+
+-------------------
+
+#### 26 September: [Christchurch Meetup](https://www.meetup.com/owasp-new-zealand-chapter-christchurch/events/254575594/)
+   
+**Presentation:** A Senior in a Juniors World - Toni James, Orion Health ([@_tonijames](https://twitter.com/_tonijames))  
+**Location:** Catalyst IT Limited (Level 1, 284 Kilmore Street, Christchurch Central)   
 
 -------------------
 
