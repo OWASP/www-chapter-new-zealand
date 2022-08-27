@@ -23,12 +23,12 @@ The chapter leaders are [Pete Nicholls](mailto:pete.nicholls@owasp.org) (Christc
 
 ### Upcoming Meetup Events in Auckland:
 
-#### Tuesday, 20 September: [Auckland Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/284791396/) 
+#### Wednesday, 21 September: [Auckland Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/284791396/) 
 
 **Top Ten 2021 Topic:** A4 - Insecure Design - John DiLeo ([@gr4ybeard](https://twitter.com/gr4ybeard), [LinkedIn](https://www.linkedin.com/in/john-dileo/))   
 **Technical Presentation:** Unicode Security: How Emojis Can Be Bad for AppSec - Dr. Pedram Hayati, Founder, [SecTalks.org](https://www.sectalks.org/) and [SecDim.com](https://secdim.com/) ([LinkedIn](https://www.linkedin.com/in/pedram-hayati-07b2b525/))   
 **Location:** Westpac New Zealand (16 Takutai Square, Auckland CBD)   
-**Time:** 6:00 p.m.    
+**Time:** 6:30 p.m. (doors open at 6:00)    
 
 **Unicode Security: How Emojis Can Be Bad for AppSec**     
 **Abstract:** Coming soon   
