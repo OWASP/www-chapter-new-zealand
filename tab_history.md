@@ -11,17 +11,32 @@ tags: owaspnz
 
 ### 2022
 
-#### Tuesday, 20 September: [Auckland Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/284791396/) 
+#### Wednesday, 21 September: [Auckland Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/284791396/) 
 
 **Top Ten 2021 Topic:** A4 - Insecure Design - John DiLeo ([@gr4ybeard](https://twitter.com/gr4ybeard), [LinkedIn](https://www.linkedin.com/in/john-dileo/))   
 **Technical Presentation:** Unicode Security: How Emojis Can Be Bad for AppSec - Dr. Pedram Hayati, Founder, [SecTalks.org](https://www.sectalks.org/) and [SecDim.com](https://secdim.com/) ([LinkedIn](https://www.linkedin.com/in/pedram-hayati-07b2b525/))   
 **Location:** Westpac New Zealand (16 Takutai Square, Auckland CBD)   
-**Time:** 6:00 p.m.    
+**Time:** 6:30 p.m. (doors open at 6:00)    
 
 **Unicode Security: How Emojis Can Be Bad for AppSec**     
-**Abstract:** Coming soon   
-**Speaker Bio:** Coming soon   
 
+-------------
+
+#### Wednesday, 24 August: [Christchurch Meetup](https://www.meetup.com/owasp-new-zealand-chapter-christchurch/events/287178913/) 
+
+**Technical Presentation:** The New Top 10 Web App Security Risks - Kevin Alcock, Datacom ([@kevinnz](https://twitter.com/kevinnz), [LinkedIn](https://www.linkedin.com/in/kevinnz/))  
+**Location:** Inde Technology (175 Roydvale Avenue, Burnside, Christchurch)   
+**Time:** 7:00 p.m.    
+
+**The New Top 10 Web AppSecurity Risks**     
+**Abstract:** 
+
+All web app developers should know the OWASP Top 10 – a list of the biggest cybersecurity concerns that commonly appear in web applications.
+
+Every few years, the list is updated based on feedback from the community, observations in the wild, and changes to the threat landscape.
+
+The list was recently updated, and in this talk, Kevin will run us through those changes and help us to build (or break) modern web applications.
+   
 -------------
 
 #### 5 - 8 July: Twelfth OWASP New Zealand Day

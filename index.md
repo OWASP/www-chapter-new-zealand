@@ -19,26 +19,34 @@ The OWASP New Zealand Chapter has been active since 2007. In addition to support
 The chapter leaders are [Pete Nicholls](mailto:pete.nicholls@owasp.org) (Christchurch), [Kirk Jackson](mailto:kirk.jackson@owasp.org)
 (Wellington), and [John DiLeo](mailto:john.dileo@owasp.org) (Auckland).
 
+### State of AppSec in New Zealand - 2022
+
+Beginning in early 2022, a group of volunteers created the inaugural **State of AppSec in New Zealand Survey**, to gain first-hand information from 
+New Zealand organisations that develop and/or use software (i.e., all of them), regarding how they manage, fund, and prioritise the security of the
+applications they build and use.
+
+*Watch this space for the 2022 State of AppSec in New Zealand whitepaper - To be published early November 2022*
+
+The whitepaper is Copyright &copy; OWASP Foundation, 2022, and is published under the 
+[Creative Commons Attribution-Share Alike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) license.
+
+
+
 ## Upcoming Events
 
 ### Upcoming Meetup Events in Auckland:
 
-#### Wednesday, 21 September: [Auckland Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/284791396/) 
+#### 4 - 7 July 2023: Thirteenth OWASP New Zealand Day
 
-**Top Ten 2021 Topic:** A4 - Insecure Design - John DiLeo ([@gr4ybeard](https://twitter.com/gr4ybeard), [LinkedIn](https://www.linkedin.com/in/john-dileo/))   
-**Technical Presentation:** Unicode Security: How Emojis Can Be Bad for AppSec - Dr. Pedram Hayati, Founder, [SecTalks.org](https://www.sectalks.org/) and [SecDim.com](https://secdim.com/) ([LinkedIn](https://www.linkedin.com/in/pedram-hayati-07b2b525/))   
-**Location:** Westpac New Zealand (16 Takutai Square, Auckland CBD)   
-**Time:** 6:30 p.m. (doors open at 6:00)    
-
-**Unicode Security: How Emojis Can Be Bad for AppSec**     
-**Abstract:** Coming soon   
-**Speaker Bio:** Coming soon   
+**[OWASP New Zealand Day 2023](https://appsec.org.nz/conference/)** - Auckland University of Technology (AUT) City Campus   
+* Two-day conference, with two tracks, on Thursday and Friday, 6-7 July   
+* Pre-Conference Training, Tuesday and Wednesday, 4-5 July      
 
 -------------
 
 #### Tuesday, 8 November: [Auckland Meetup](https://www.meetup.com/owasp-new-zealand-chapter-auckland/events/284791414/) 
 
-**Top Ten 2021 Topic:** A5 - Security Misconfiguration - John DiLeo ([@gr4ybeard](https://twitter.com/gr4ybeard), [LinkedIn](https://www.linkedin.com/in/john-dileo/))   
+**Top Ten 2021 Topic:** A5 - Security Misconfiguration - Austin Chamberlain    
 **Technical Presentation:** TBC   
 **Location:** TBC   
 **Time:** 6:00 p.m.    
@@ -48,23 +56,6 @@ The chapter leaders are [Pete Nicholls](mailto:pete.nicholls@owasp.org) (Christc
 * Visit/Join the [Auckland Meetup Group](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/)
 
 ### Upcoming Meetup Events in Christchurch:
-
-#### Wednesday, 24 August: [Christchurch Meetup](https://www.meetup.com/owasp-new-zealand-chapter-christchurch/events/287178913/) 
-
-**Technical Presentation:** The New Top 10 Web App Security Risks - Kevin Alcock, Datacom ([@kevinnz](https://twitter.com/kevinnz), [LinkedIn](https://www.linkedin.com/in/kevinnz/))  
-**Location:** Inde Technology ([175 Roydvale Avenue, Burnside, Christchurch](https://www.google.com/maps/place/Inde+Technology/@-36.849761,174.7628903,15z/data=!3m1!4b1!4m5!3m4!1s0x6d318b63ae233e93:0xcbf1ab06da352ef7!8m2!3d-43.4903869!4d172.5644989))   
-**Time:** 7:00 p.m.    
-
-**The New Top 10 Web AppSecurity Risks**     
-**Abstract:** 
-
-All web app developers should know the OWASP Top 10 – a list of the biggest cybersecurity concerns that commonly appear in web applications.
-
-Every few years, the list is updated based on feedback from the community, observations in the wild, and changes to the threat landscape.
-
-The list was recently updated, and in this talk, Kevin will run us through those changes and help us to build (or break) modern web applications.
-   
--------------
 
 * Visit/Join the [Christchurch Meetup Group](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/)
 
