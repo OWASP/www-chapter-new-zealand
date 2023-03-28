@@ -25,9 +25,12 @@ Beginning in early 2022, a group of volunteers created the inaugural **State of 
 New Zealand organisations that develop and/or use software (i.e., all of them), regarding how they manage, fund, and prioritise the security of the
 applications they build and use.
 
-*Watch this space for the 2022 State of AppSec in New Zealand whitepaper - To be published early November 2022*
+### 2022 State of AppSec in New Zealand Survey Report   
 
-The whitepaper is Copyright &copy; OWASP Foundation, 2022, and is published under the 
+* [Volume 1 - Executive Summary](assets/documents/2022_State_of_AppSec_Survey_Report-Volume_1.pdf) (PDF, 379 kB)
+* [Volume 2 - Response Data](assets/documents/2022_State_of_AppSec_Survey_Report-Volume_2.pdf) (PDF, 526kB)
+
+The Survey Report is Copyright &copy; OWASP Foundation, Inc., 2023, and is published under the 
 [Creative Commons Attribution-Share Alike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) license.
 
 
