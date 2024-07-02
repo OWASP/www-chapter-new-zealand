@@ -16,8 +16,7 @@ Welcome to the OWASP New Zealand Chapter home page.
 
 The OWASP New Zealand Chapter has been active since 2007. In addition to supporting and participating in the annual [AppSec New Zealand Conference](https://appsec.org.nz/conference), we organise local Meetups and training events throughout the year.
 
-The chapter leaders are [Pete Nicholls](mailto:pete.nicholls@owasp.org) (Christchurch), [Kirk Jackson](mailto:kirk.jackson@owasp.org)
-(Wellington), and [John DiLeo](mailto:john.dileo@owasp.org) (Auckland).
+The chapter leaders are [Austin Chamberlain](mailto:austin.chamberlain@owasp.org) (Wellington), [Pete Nicholls](mailto:pete.nicholls@owasp.org) (Christchurch), and [John DiLeo](mailto:john.dileo@owasp.org) (Hamilton). The Wellington Meetup is currently inactive, while we search for new leaders to organise sessions.
 
 ### State of AppSec in New Zealand - 2022
 
@@ -37,22 +36,36 @@ The Survey Report is Copyright &copy; OWASP Foundation, Inc., 2023, and is publi
 
 ## Upcoming Events
 
-### Upcoming Meetup Events in Auckland:
+### Upcoming Events in Auckland:
 
-#### 4 - 7 July 2023: Thirteenth OWASP New Zealand Day
+#### 3-6 September 2024: Fourteenth OWASP New Zealand Day
 
-**[OWASP New Zealand Day 2023](https://appsec.org.nz/conference/)** - Auckland University of Technology (AUT) City Campus   
-* Two-day conference, with two tracks, on Thursday and Friday, 6-7 July   
-* Pre-Conference Training, Tuesday and Wednesday, 4-5 July      
+**[OWASP New Zealand Day 2024](https://appsec.org.nz/conference/)** - Auckland University of Technology (AUT) City Campus   
+* Two-day conference, with two tracks, on Thursday and Friday, 5-6 September - Register online [HERE](https://events.humanitix.com/owaspnz2024)   
+* Pre-Conference Training, Tuesday and Wednesday, 3-4 September - Register online [HERE](https://events.humanitix.com/owaspnz2024-training)      
 
 -------------
 
-#### Tuesday, 8 November: [Auckland Meetup](https://www.meetup.com/owasp-new-zealand-chapter-auckland/events/284791414/) 
+#### Tuesday, 16 July: [Auckland Meetup](https://www.meetup.com/owasp-new-zealand-chapter-auckland/events/297786381) 
 
-**Top Ten 2021 Topic:** A5 - Security Misconfiguration - Austin Chamberlain    
+**Host:** Austin Chamberlain
+**Top Ten 2021 Topic:** A03:2021 - Injection    
 **Technical Presentation:** TBC   
-**Location:** TBC   
-**Time:** 6:00 p.m.    
+**Location:** The Corner Store, 25 Mount Eden Road [Google Maps](https://www.google.com/maps/place/The+Corner+Store/@-36.8657037,174.7583494,17z/data=!3m1!4b1!4m6!3m5!1s0x6d0d47c362b99f6f:0xd95014f14fe26b94!8m2!3d-36.865708!4d174.7609297!16s%2Fg%2F1tdy97hj?entry=ttu)     
+**Time:** Doors open at 6:00 p.m.; Presentations start at 6:30 p.m.    
+
+-------------
+
+* Visit/Join the [Auckland Meetup Group](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/)
+
+### Upcoming Events in Hamilton:
+
+#### Tuesday, 16 July: Inaugural Hamilton Meetup 
+
+**Host:** John DiLeo
+**Discussion:** Introduction to OWASP and our plan for the new Hamilton Meetup   
+**Location:** Gallagher World Headquarters, 181 Kahikatea Drive [Google Maps](https://www.google.com/maps/place/Gallagher+Animal+Management+New+Zealand/@-37.8081827,175.2672688,17z/data=!3m1!4b1!4m6!3m5!1s0x6d6d21fce170e7f9:0x2484032d31d29bc4!8m2!3d-37.808187!4d175.2698491!16s%2Fg%2F1v2kxmq1?entry=ttu)     
+**Time:** Doors open at 6:00 p.m.; Presentations start at 6:30 p.m.    
 
 -------------
 
