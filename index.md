@@ -69,17 +69,15 @@ The Survey Report is Copyright &copy; OWASP Foundation, Inc., 2023, and is publi
 
 -------------
 
-* Visit/Join the [Auckland Meetup Group](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/)
+* Visit/Join the Hamilton Meetup Group (Coming Soon!)
 
 ### Upcoming Meetup Events in Christchurch:
 
 * Visit/Join the [Christchurch Meetup Group](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/)
 
-### Upcoming Meetup Events in Wellington:
+### Wellington Events
 
-Next Meetup planned in October - Details TBC
-
-* Visit/Join the [Wellington Meetup Group](https://www.meetup.com/OWASP-Wellington/)
+We're looking for new Meetup leaders for the Wellington Meetup. For now, the Wellington Meetup is inactive.
 
 -------------
 
@@ -89,10 +87,6 @@ Next Meetup planned in October - Details TBC
     [New-Zealand-Chapter@owasp.org](mailto:new-zealand-chapter@owasp.org)
     - [Join the
     Group](https://groups.google.com/a/owasp.org/forum/#!forum/new-zealand-chapter/join)
-  - [InfoSecNZ Workspace](https://infosecnz.slack.com) on Slack - Be
-    sure to join the \#events channel for calendar notices (NOTE: By
-    design, we do not maintain a separate Slack Workspace for the New
-    Zealand chapter). Reach out to one of the [InfoSecNZ admins](https://github.com/binarymist/InfoSecNZ#join-infosecnz) if you would like an account
   - Follow us on [Twitter](https://www.twitter.com/owaspnz) (@owaspnz)
 
 ### Some Global OWASP Resources:
@@ -107,9 +101,9 @@ Our Call For Speakers is always open. If you would like to present a talk releva
 
 ### Call for Organisers
 
-OWASP New Zealand currently has active Meetups in three cities - Auckland, Christchurch, and Wellington. If you're interested in helping organise one of our Meetups, please contact the Chapter Leader in that city.
+OWASP New Zealand currently has active Meetups in three cities - Auckland, Hamilton, and Christchurch. If you're interested in helping organise one of our Meetups, please contact the Chapter Leader in that city.
 
-If you are located in another New Zealand city, and would be willing and able to host a Meetup there (at least four times per year), then we'd love to hear from you.
+If you are located in another New Zealand city (especially Wellington), and would be willing and able to host a Meetup there (at least four times per year), then we'd love to hear from you.
 
 ### The OWASP New Zealand Board
 
