@@ -48,7 +48,7 @@ The Survey Report is Copyright &copy; OWASP Foundation, Inc., 2023, and is publi
 
 #### Tuesday, 16 July: [Auckland Meetup](https://www.meetup.com/owasp-new-zealand-chapter-auckland/events/297786381) 
 
-**Host:** Austin Chamberlain
+**Host:** Austin Chamberlain    
 **Top Ten 2021 Topic:** A03:2021 - Injection    
 **Technical Presentation:** TBC   
 **Location:** The Corner Store, 25 Mount Eden Road [Google Maps](https://www.google.com/maps/place/The+Corner+Store/@-36.8657037,174.7583494,17z/data=!3m1!4b1!4m6!3m5!1s0x6d0d47c362b99f6f:0xd95014f14fe26b94!8m2!3d-36.865708!4d174.7609297!16s%2Fg%2F1tdy97hj?entry=ttu)     
@@ -62,7 +62,7 @@ The Survey Report is Copyright &copy; OWASP Foundation, Inc., 2023, and is publi
 
 #### Tuesday, 16 July: Inaugural Hamilton Meetup 
 
-**Host:** John DiLeo
+**Host:** John DiLeo    
 **Discussion:** Introduction to OWASP and our plan for the new Hamilton Meetup   
 **Location:** Gallagher World Headquarters, 181 Kahikatea Drive [Google Maps](https://www.google.com/maps/place/Gallagher+Animal+Management+New+Zealand/@-37.8081827,175.2672688,17z/data=!3m1!4b1!4m6!3m5!1s0x6d6d21fce170e7f9:0x2484032d31d29bc4!8m2!3d-37.808187!4d175.2698491!16s%2Fg%2F1v2kxmq1?entry=ttu)     
 **Time:** Doors open at 6:00 p.m.; Presentations start at 6:30 p.m.    
