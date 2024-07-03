@@ -9,7 +9,141 @@ tags: owaspnz
 
 ## Past Events
 
+### 2024
+
+#### Saturday, 15 June: [OWASP Training Day-Auckland](https://events.humanitix.com/owasp-training-day-auckland-jun-2024) 
+
+**Classes Offered:** 
+
+* Threat Modelling: Assess and Improve Your AppSec Program using OWASP SAMM - John DiLeo
+* Like ISO/IEC 27001, but Backwards - Stephen Coates
+
+**Location:** 2Degrees Head Office (Level 2/136 Fanshawe Street, Auckland)   
+**Time:** 8:45 a.m. - 5:30 p.m.    
+
+-------------
+
+#### 21 May: [Auckland Meetup](https://www.meetup.com/owasp-new-zealand-chapter-auckland/events/297780385/) 
+
+**Top Ten Topic:** A02:2021 - Cryptographic Failures - John DiLeo ([@gr4ybeard](https://twitter.com/gr4ybeard))   
+**Technical Presentation:** Listeners' Choice      
+**Location:** The Corner Store (25 Mount Eden Road)   
+**Time:** 6:30 p.m.    
+
+-------------
+
+#### 12 March: [Auckland Meetup](https://www.meetup.com/owasp-new-zealand-chapter-auckland/events/297780380/) 
+
+**Top Ten Topic:** A01:2021 - Broken Access Control - John DiLeo ([@gr4ybeard](https://twitter.com/gr4ybeard))   
+**Technical Presentation:** OWASP SAMM - Overview and Update      
+**Location:** The Corner Store (25 Mount Eden Road)   
+**Time:** 6:30 p.m.    
+
+-------------
+
+#### Saturday, 27 January: [OWASP Training Day-Hamilton](https://events.humanitix.com/owasp-training-day-hamilton-jan-2024) 
+
+**Classes Offered:** 
+
+* Threat Modelling: From none to done - John DiLeo
+* Like ISO/IEC 27001, but Backwards - Stephen Coates
+
+**Location:** Gallagher World Headquarters (181 Kahikatea Drive, Hamilton)   
+**Time:** 8:45 a.m. - 5:30 p.m.    
+
+-------------
+
+### 2023
+
+#### 21 November: [Auckland Meetup](https://www.meetup.com/owasp-new-zealand-chapter-auckland/events/291721034/) 
+
+**Top Ten Topic:** A10:2021 - Server-Side Request Forgery (SSRF) - John DiLeo ([@gr4ybeard](https://twitter.com/gr4ybeard))   
+**Technical Presentation:** Creating Test Cases for Security Features - John DiLeo, IriusRisk      
+**Location:** The Corner Store (25 Mount Eden Road)   
+**Time:** 6:30 p.m.    
+
+-------------
+
+#### Saturday, 11 November: [OWASP Training Day-Dunedin](https://events.humanitix.com/2023-owasp-training-day-dunedin) 
+
+**Class Offered:** Threat Modelling: From none to done - John DiLeo      
+**Location:** MTF Finance National Office (Level 1/98 Great King Street, Dunedin)   
+**Time:** 8:45 a.m. - 5:30 p.m.    
+
+-------------
+
+#### 13 September: [Auckland Meetup](https://www.meetup.com/owasp-new-zealand-chapter-auckland/events/291721023/) 
+
+**Top Ten Topic:** A09:2021 - Security Logging and Monitoring Failures - John DiLeo ([@gr4ybeard](https://twitter.com/gr4ybeard))   
+**Technical Presentation:** Listeners' Choice - John DiLeo      
+**Location:** B:HIVE (72 Taharoto Road, Takapuna)   
+**Time:** 6:30 p.m.    
+
+-------------
+
+#### 11 July: [Auckland Meetup](https://www.meetup.com/owasp-new-zealand-chapter-auckland/events/291721004/) 
+
+**Top Ten Topic:** A08:2021 - Software and Data Integrity Failures - John DiLeo ([@gr4ybeard](https://twitter.com/gr4ybeard))   
+**Discussion:** Retrospective on OWASP New Zealand Day 2023      
+**Location:** Jubilee Building (545 Parnell Road)   
+**Time:** 6:30 p.m.    
+
+-------------
+
+#### 4 - 7 July: Thirteenth OWASP New Zealand Day
+
+[![OWASP NZ Day 2023 - Web Banner](https://appsec.org.nz/assets/images/2023_Banner_Graphic.jpg)](https://appsec.org.nz/conference-2023/)
+
+**[OWASP New Zealand Day 2023](https://appsec.org.nz/conference-2022/)** - Auckland University of Technology (AUT) City Campus   
+* Two-day conference, with two tracks, on Thursday and Friday, 6-7 July   
+* Pre-Conference Training, Tuesday and Wednesday, 4-5 July - Six (6) classes presented      
+
+-------------
+
+#### 9 May: [Auckland Meetup](https://www.meetup.com/owasp-new-zealand-chapter-auckland/events/291720878/) 
+
+**Top Ten Topic:** A07:2021 - Identification and Authentication Failures - John DiLeo ([@gr4ybeard](https://twitter.com/gr4ybeard))   
+**Technical Presentation:** Let's Talk about Threat Modelling - John DiLeo, IriusRisk      
+**Location:** B:HIVE (72 Taharoto Road, Takapuna)   
+**Time:** 6:30 p.m.    
+
+**Let's Talk about Threat Modelling**     
+**Abstract:** John provided an update on his general thoughts about threat modelling as a source of Security Requirements for applications, how development teams can integrate threat modelling into their BAU practices, and the tool landscape.
+
+-------------
+
+#### 14 March: [Auckland Meetup](https://www.meetup.com/owasp-new-zealand-chapter-auckland/events/291645592/) 
+
+**Top Ten Topic:** A06:2021 - Vulnerable and Outdated Components - John DiLeo ([@gr4ybeard](https://twitter.com/gr4ybeard))   
+**Technical Presentation:** Networking Security for Application Developers - Ruskin Dantra and Ryan Tan, AWS   
+**Location:** AWS, Level 13, Commercial Bay (7 Queen Street)   
+**Time:** 6:30 p.m.    
+
+**Networking Security for Application Developers**     
+**Abstract:**   
+Microservices are an integral part of modern application development. As we increasingly adopt distributed services, securing communication between them is crucial.   
+In this talk, you will discover how to strengthen your application network security at multiple layers and achieve continuous compliance visibility. By implementing these practices, you can mitigate potential security risks and ensure the safety and privacy of your users' data.
+
+-------------
+
 ### 2022
+
+#### Tuesday, 8 November: [Auckland Meetup](https://www.meetup.com/owasp-new-zealand-chapter-auckland/events/284791414/) 
+
+**Top Ten Topic:** A05:2021 - Security Misconfiguration - John DiLeo ([@gr4ybeard](https://twitter.com/gr4ybeard), [LinkedIn](https://www.linkedin.com/in/john-dileo/))   
+**Location:** Les Mills (43 Sale Street, Auckland CBD)   
+**Time:** 6:30 p.m. (doors open at 6:00)    
+
+-------------
+
+#### Saturday, 24 September: [security.ac.nz 2022](https://security.ac.nz/) 
+
+[![security.ac.nz Logo](https://security.ac.nz/assets/img/header.png)
+
+**[security.ac.nz 2022](https://security.ac.nz/)** - Owen G. Glenn Building, University of Auckland   
+* One-day, FREE, student-focused conference - Saturday, 24 September   
+
+-------------
 
 #### Wednesday, 21 September: [Auckland Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/284791396/) 
 
@@ -17,8 +151,6 @@ tags: owaspnz
 **Technical Presentation:** Unicode Security: How Emojis Can Be Bad for AppSec - Dr. Pedram Hayati, Founder, [SecTalks.org](https://www.sectalks.org/) and [SecDim.com](https://secdim.com/) ([LinkedIn](https://www.linkedin.com/in/pedram-hayati-07b2b525/))   
 **Location:** Westpac New Zealand (16 Takutai Square, Auckland CBD)   
 **Time:** 6:30 p.m. (doors open at 6:00)    
-
-**Unicode Security: How Emojis Can Be Bad for AppSec**     
 
 -------------
 
@@ -43,24 +175,73 @@ The list was recently updated, and in this talk, Kevin will run us through those
 
 [![OWASP NZ Day - Web Banner](assets/images/Web_Banner-OWASP_NZ_Day_2022.jpg)](https://appsec.org.nz/conference/)
 
-**[OWASP New Zealand Day 2022](https://appsec.org.nz/conference/)** - Auckland University of Technology (AUT) City Campus   
+**[OWASP New Zealand Day 2022](https://appsec.org.nz/conference-2022/)** - Auckland University of Technology (AUT) City Campus   
 * Two-day conference, with two tracks, on Thursday and Friday, 7-8 July   
 * Pre-Conference Training, Tuesday and Wednesday, 5-6 July - Five (5) classes presented      
 
 -------------
 
-
-
 ### 2021
 
-#### 30 June: [Christchurch Meetup](https://www.meetup.com/owasp-new-zealand-chapter-christchurch/events/277289990/)
+#### Tuesday, 9 November: [Auckland Meetup](https://www.meetup.com/owasp-new-zealand-chapter-auckland/events/276956126/) 
+
+**Presentation:** Leveraging OWASP Resources in Your AppSec Programme - John DiLeo    
+**Location:** Zoom Meeting   
+**Time:** 6:30 p.m.    
+
+-------------------
+
+#### Tuesday, 14 September: [Auckland Meetup](https://www.meetup.com/owasp-new-zealand-chapter-auckland/events/276956121/) 
+
+**Presentation:** OWASP Top 10 Update (2021 Edition) - John DiLeo    
+**Location:** Zoom Meeting   
+**Time:** 6:30 p.m.    
+
+-------------------
+
+#### Tuesday, 13 July: [Auckland Meetup](https://www.meetup.com/owasp-new-zealand-chapter-auckland/events/276956115/) 
+
+**Top Ten Topic:** A4:2017 - XML External Entity (XXE) - John DiLeo ([@gr4ybeard](https://twitter.com/gr4ybeard))   
+**Technical Presentation:** Hacking JSON Web Tokens - Ben Dechrai, Auth0    
+**Location:** Flux Federation Head Office (Level 3/104 Fanshawe Street, Auckland CBD)   
+**Time:** 6:30 p.m.    
+
+**Hacking JSON Web Tokens**     
+**Abstract:**   
+In the world of authentication and authorisation, you might have heard of JWTs, or JSON Web Tokens, which are used to encapsulate a user's identity, or convey information to another system that defines permissions of what can be performed.
+
+They're secure; they're signed; they're the best thing since sliced bread!
+
+So you've adopted them into your applications and now feel much safer. The chances things will go wrong are slim. Right?
+
+This talk will introduce some ways JWT implementations can go wrong, together with live demos, and take you on a journey to understand how to make sure you can trust these handy payloads in your applications and APIs.
+
+-------------
+
+#### Wednesday, 30 June: [Christchurch Meetup](https://www.meetup.com/owasp-new-zealand-chapter-christchurch/events/277289990/)
    
 **Presentation:** Incident Response and Application Intrusion Detection - Kim Carter and Chris C.   
 **Location:** Trineo Limited (181 High Street, Christchurch Central)   
 
 -------------------
 
-#### 31 March: [Christchurch Meetup](https://www.meetup.com/owasp-new-zealand-chapter-christchurch/events/275597430/)
+#### Thursday, 13 May: [Wellington Meetup](https://www.meetup.com/owasp-wellington/events/277798521/) 
+
+**Panel Discussion** - Getting AppSec Right, from the Beginning    
+**Location:** RedShield (Level 12/79 Boulcott treet)   
+**Time:** 5:45 - 8:30 p.m.    
+
+-------------
+
+#### Tuesday, 11 May: [Auckland Meetup](https://www.meetup.com/owasp-new-zealand-chapter-auckland/events/276956104/) 
+
+**Panel Discussion** - Getting AppSec Right, from the Beginning    
+**Location:** Datacom Auckland (58 Gaunt Street)   
+**Time:** 5:45 - 8:30 p.m.    
+
+-------------
+
+#### Wednesday, 31 March: [Christchurch Meetup](https://www.meetup.com/owasp-new-zealand-chapter-christchurch/events/275597430/)
    
 **Open Discussions:** 
 
@@ -71,6 +252,14 @@ The list was recently updated, and in this talk, Kevin will run us through those
 
 -------------------
 
+#### Monday, 15 March: [Auckland Meetup](https://www.meetup.com/owasp-new-zealand-chapter-auckland/events/276435402/) 
+
+**AppSec/InfoSec Games Night** - Backdoors and Breaches; Elevation of Privilege (EoP), OWASP Cornucopia    
+**Location:** Grid/AKL, John Lysaght Building (101 Pakenham Street West, Auckland CBD)   
+**Time:** 6:30 p.m.    
+
+-------------
+
 #### 10 - 13 February: 2021 AppSec New Zealand Conference
 
 [![OWASP NZ Day - Web Banner](assets/images/Web_Banner-AppSec_NZ_Conference_2021.jpg)](https://appsec.org.nz/conference-2021/)
@@ -80,8 +269,6 @@ The list was recently updated, and in this talk, Kevin will run us through those
 * Pre-Conference Training, Wednesday and Thursday, 10-11 February - Seven (7) classes presented      
 
 -------------
-
-
 
 ### 2020
 
