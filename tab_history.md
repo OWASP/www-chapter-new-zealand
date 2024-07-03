@@ -15,7 +15,7 @@ tags: owaspnz
 
 **Classes Offered:** 
 
-* Threat Modelling: Assess and Improve Your AppSec Program using OWASP SAMM - John DiLeo
+* Assess and Improve Your AppSec Program using OWASP SAMM - John DiLeo
 * Like ISO/IEC 27001, but Backwards - Stephen Coates
 
 **Location:** 2Degrees Head Office (Level 2/136 Fanshawe Street, Auckland)   
@@ -183,6 +183,14 @@ The list was recently updated, and in this talk, Kevin will run us through those
 
 -------------
 
+#### Monday, 20 June: [Wellington Meetup](https://www.meetup.com/owasp-wellington/events/286368065/) 
+
+**Presentation:** OWASP Top 10 Overview - Kirk Jackson   
+**Location:** RedShield (Level 12/79 Boulcott Street, Wellington Central)   
+**Time:** 5:30 p.m.    
+
+-------------
+
 ### 2021
 
 #### Tuesday, 9 November: [Auckland Meetup](https://www.meetup.com/owasp-new-zealand-chapter-auckland/events/276956126/) 
@@ -201,6 +209,14 @@ The list was recently updated, and in this talk, Kevin will run us through those
 
 -------------------
 
+#### Monday, 9 August: [Wellington Meetup](https://www.meetup.com/owasp-wellington/events/279767187/) 
+
+**Presentation:** DDos: How can something so cheap be so expensive? - Jerome Van Rooijen, RedShield   
+**Location:** RedShield (Level 12/79 Boulcott Street, Wellington Central)   
+**Time:** 5:30 p.m.    
+
+-------------
+
 #### Tuesday, 13 July: [Auckland Meetup](https://www.meetup.com/owasp-new-zealand-chapter-auckland/events/276956115/) 
 
 **Top Ten Topic:** A4:2017 - XML External Entity (XXE) - John DiLeo ([@gr4ybeard](https://twitter.com/gr4ybeard))   
@@ -217,6 +233,14 @@ They're secure; they're signed; they're the best thing since sliced bread!
 So you've adopted them into your applications and now feel much safer. The chances things will go wrong are slim. Right?
 
 This talk will introduce some ways JWT implementations can go wrong, together with live demos, and take you on a journey to understand how to make sure you can trust these handy payloads in your applications and APIs.
+
+-------------
+
+#### Monday, 12 July: [Wellington Meetup](https://www.meetup.com/owasp-wellington/events/279212265/) 
+
+**Presentation:** XXE: Why It's Still in the Top 10 - Sam Shute   
+**Location:** Quantum Security (10 Brandon Street, Wellington Central)   
+**Time:** 5:30 p.m.    
 
 -------------
 
@@ -259,6 +283,14 @@ This talk will introduce some ways JWT implementations can go wrong, together wi
 **AppSec/InfoSec Games Night** - Backdoors and Breaches; Elevation of Privilege (EoP), OWASP Cornucopia    
 **Location:** Grid/AKL, John Lysaght Building (101 Pakenham Street West, Auckland CBD)   
 **Time:** 6:30 p.m.    
+
+-------------
+
+#### Monday, 15 March: [Wellington Meetup](https://www.meetup.com/owasp-wellington/events/276675340/) 
+
+**Presentation:** Federated Logins with OAuth 2, OpenID Connect, and JWTs - Matt Cotterell   
+**Location:** RedShield (Level 12/79 Boulcott Street, Wellington Central)   
+**Time:** 5:30 p.m.    
 
 -------------
 
