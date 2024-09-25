@@ -70,7 +70,7 @@ The Survey Report is Copyright &copy; OWASP Foundation, Inc., 2023, and is publi
 
 -------------
 
-* Visit/Join the [Hamilton Meetup Group](https://www.meetup.com/owasp-hamilton-chapter)
+* Visit/Join the [Hamilton Meetup Group](https://www.meetup.com/owaspnz-hamilton)
 
 ### Upcoming Meetup Events in Christchurch:
 
