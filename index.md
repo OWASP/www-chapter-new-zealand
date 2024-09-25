@@ -16,11 +16,11 @@ Welcome to the OWASP New Zealand Chapter home page.
 
 The OWASP New Zealand Chapter has been active since 2007. In addition to supporting and participating in the annual [AppSec New Zealand Conference](https://appsec.org.nz/conference), we organise local Meetups and training events throughout the year.
 
-The chapter leaders are [Austin Chamberlain](mailto:austin.chamberlain@owasp.org) (Wellington), [Pete Nicholls](mailto:pete.nicholls@owasp.org) (Christchurch), and [John DiLeo](mailto:john.dileo@owasp.org) (Hamilton). The Wellington Meetup is currently inactive, while we search for new leaders to organise sessions.
+The primary Meetup leaders are [Austin Chamberlain](mailto:austin.chamberlain@owasp.org) (Auckland), [Pete Nicholls](mailto:pete.nicholls@owasp.org) (Christchurch), [John DiLeo](mailto:john.dileo@owasp.org) (Hamilton), and [Matt Cotterell](mailto:matt.cotterell@owasp.org) (Wellington).
 
 ### State of AppSec in New Zealand - 2022
 
-Beginning in early 2022, a group of volunteers created the inaugural **State of AppSec in New Zealand Survey**, to gain first-hand information from 
+In early 2022, a group of volunteers created the inaugural **State of AppSec in New Zealand Survey**, to gain first-hand information from 
 New Zealand organisations that develop and/or use software (i.e., all of them), regarding how they manage, fund, and prioritise the security of the
 applications they build and use.
 
@@ -38,18 +38,18 @@ The Survey Report is Copyright &copy; OWASP Foundation, Inc., 2023, and is publi
 
 ### Upcoming Events in Auckland:
 
-#### 3-6 September 2024: Fourteenth OWASP New Zealand Day
+#### 1-5 September 2025: OWASP Global AppSec-Auckland
 
-**[OWASP New Zealand Day 2024](https://appsec.org.nz/conference/)** - Auckland University of Technology (AUT) City Campus   
-* Two-day conference, with two tracks, on Thursday and Friday, 5-6 September - Register online [HERE](https://events.humanitix.com/owaspnz2024)   
-* Pre-Conference Training, Tuesday and Wednesday, 3-4 September - Register online [HERE](https://events.humanitix.com/owaspnz2024-training)      
+* Sir Owen G. Glenn Building, University of Auckland   
+* Two-day conference, with multiple tracks, on Thursday and Friday, 4-5 September   
+* Pre-Conference Training, Monday - Wednesday, 1-3 September   
 
 -------------
 
-#### Tuesday, 16 July: [Auckland Meetup](https://www.meetup.com/owasp-new-zealand-chapter-auckland/events/297786381) 
+#### Tuesday, 19 November: [Auckland Meetup](https://www.meetup.com/owasp-new-zealand-chapter-auckland/events/297786381) 
 
 **Host:** Austin Chamberlain    
-**Top Ten 2021 Topic:** A03:2021 - Injection    
+**Top Ten 2021 Topic:** A05:2021 - Security Misconfiguration    
 **Technical Presentation:** TBC   
 **Location:** The Corner Store, 25 Mount Eden Road [Google Maps](https://www.google.com/maps/place/The+Corner+Store/@-36.8657037,174.7583494,17z/data=!3m1!4b1!4m6!3m5!1s0x6d0d47c362b99f6f:0xd95014f14fe26b94!8m2!3d-36.865708!4d174.7609297!16s%2Fg%2F1tdy97hj?entry=ttu)     
 **Time:** Doors open at 6:00 p.m.; Presentations start at 6:30 p.m.    
@@ -60,16 +60,17 @@ The Survey Report is Copyright &copy; OWASP Foundation, Inc., 2023, and is publi
 
 ### Upcoming Events in Hamilton:
 
-#### Tuesday, 16 July: Inaugural Hamilton Meetup 
+#### Tuesday, 19 November: [Hamilton Meetup](https://www.meetup.com/owasp-hamilton-chapter/events/303648265) 
 
 **Host:** John DiLeo    
-**Discussion:** Introduction to OWASP and our plan for the new Hamilton Meetup   
-**Location:** Gallagher World Headquarters, 181 Kahikatea Drive [Google Maps](https://www.google.com/maps/place/Gallagher+Animal+Management+New+Zealand/@-37.8081827,175.2672688,17z/data=!3m1!4b1!4m6!3m5!1s0x6d6d21fce170e7f9:0x2484032d31d29bc4!8m2!3d-37.808187!4d175.2698491!16s%2Fg%2F1v2kxmq1?entry=ttu)     
+**Top Ten 2021 Topic:** A03:2021 - Injection    
+**Technical Presentation:** The Endlessly Singing Canaries - Will Verland and Taylor Wilton     
+**Location:** LIC (Livestock Improvement Corporation), 605 Ruakura Road, Newstead, Hamilton [Google Maps](https://www.google.com/maps/place/LIC+(Livestock+Improvement+Corporation)/@-37.7813846,175.348814,787m/data=!3m2!1e3!4b1!4m6!3m5!1s0x6d6d195e23971e17:0xbfc3a23b707be8a2!8m2!3d-37.7813889!4d175.3513889!16s%2Fg%2F1tm29w6b?entry=ttu&g_ep=EgoyMDI0MDkyMi4wIKXMDSoASAFQAw%3D%3D)     
 **Time:** Doors open at 6:00 p.m.; Presentations start at 6:30 p.m.    
 
 -------------
 
-* Visit/Join the Hamilton Meetup Group (Coming Soon!)
+* Visit/Join the [Hamilton Meetup Group](https://www.meetup.com/owasp-hamilton-chapter)
 
 ### Upcoming Meetup Events in Christchurch:
 
@@ -77,7 +78,7 @@ The Survey Report is Copyright &copy; OWASP Foundation, Inc., 2023, and is publi
 
 ### Wellington Events
 
-We're looking for new Meetup leaders for the Wellington Meetup. For now, the Wellington Meetup is inactive.
+* Visit/Join the [Wellington Meetup Group](https://www.meetup.com/OWASP-Wellington)
 
 -------------
 

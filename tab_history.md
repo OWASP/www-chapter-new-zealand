@@ -11,6 +11,51 @@ tags: owaspnz
 
 ### 2024
 
+#### Tuesday, 17 September: [Auckland Meetup](https://www.meetup.com/owasp-new-zealand-chapter-auckland/events/297786503) 
+
+**Host:** Austin Chamberlain    
+**Top Ten 2021 Topic:** A04:2021 - Insecure Design    
+**Technical Presentation:** How Many Mistakes Can You Make with One Web App? - Austin Chamberlain       
+**Location:** The Corner Store, 25 Mount Eden Road      
+
+-------------
+
+#### Tuesday, 17 September: [Hamilton Meetup](https://www.meetup.com/owasp-hamilton-chapter/events/303474017) 
+
+**Host:** John DiLeo    
+**Top Ten 2021 Topic:** A02:2021 - Cryptographic Failures    
+**Technical Presentation:** Baking Security In: An AppSec 'critical path' for developers - John DiLeo   
+**Location:** Gallagher World Headquarters, 181 Kahikatea Drive    
+**Time:** 6:15 p.m.    
+-------------
+
+#### 3-6 September 2024: Fourteenth OWASP New Zealand Day
+
+**[OWASP New Zealand Day 2024](https://appsec.org.nz/conference/)** - Auckland University of Technology (AUT) City Campus   
+* Two-day conference, with two tracks, on Thursday and Friday, 5-6 September      
+* Pre-Conference Training, Tuesday and Wednesday, 3-4 September       
+
+-------------
+
+#### Tuesday, 16 July: [Auckland Meetup](https://www.meetup.com/owasp-new-zealand-chapter-auckland/events/297786381) 
+
+**Host:** Austin Chamberlain    
+**Top Ten 2021 Topic:** A03:2021 - Injection    
+**Technical Presentation:** TBC   
+**Location:** The Corner Store, 25 Mount Eden Road     
+**Time:** 6:30 p.m.    
+
+-------------
+
+#### Tuesday, 16 July: Inaugural Hamilton Meetup 
+
+**Host:** John DiLeo    
+**Discussion:** Introduction to OWASP and our plan for the new Hamilton Meetup   
+**Location:** Gallagher World Headquarters, 181 Kahikatea Drive        
+**Time:** 6:30 p.m.    
+
+-------------
+
 #### Saturday, 15 June: [OWASP Training Day-Auckland](https://events.humanitix.com/owasp-training-day-auckland-jun-2024) 
 
 **Classes Offered:** 
