@@ -64,7 +64,7 @@ The Survey Report is Copyright &copy; OWASP Foundation, Inc., 2023, and is publi
 
 **Host:** John DiLeo    
 **Top Ten 2021 Topic:** A03:2021 - Injection    
-**Technical Presentation:** The Endlessly Singing Canaries - Will Verland and Taylor Wilton     
+**Technical Presentation:** The Endlessly Singing Canaries - Will and Taylor     
 **Location:** LIC (Livestock Improvement Corporation), 605 Ruakura Road, Newstead, Hamilton [Google Maps](https://www.google.com/maps/place/LIC+(Livestock+Improvement+Corporation)/@-37.7813846,175.348814,787m/data=!3m2!1e3!4b1!4m6!3m5!1s0x6d6d195e23971e17:0xbfc3a23b707be8a2!8m2!3d-37.7813889!4d175.3513889!16s%2Fg%2F1tm29w6b?entry=ttu&g_ep=EgoyMDI0MDkyMi4wIKXMDSoASAFQAw%3D%3D)     
 **Time:** Doors open at 6:00 p.m.; Presentations start at 6:30 p.m.    
 
