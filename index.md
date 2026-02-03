@@ -49,7 +49,7 @@ The Survey Report is Copyright &copy; OWASP Foundation, Inc., 2023, and is publi
 #### Tuesday, 10 March: Auckland Meetup 
 
 **Host:** Austin Chamberlain    
-**Top Ten Topic:** OWASP Top Ten for Agentic Applications, OWASP Top Ten for LLM Applications
+**Top Ten Topic:** OWASP Top Ten for Agentic Applications, OWASP Top Ten for LLM Applications      
 **Technical Presentation:** None this time!
 **Location:** LightSpeed HQ, 2 Nuffield Street, Newmarket [Google Maps](https://maps.app.goo.gl/ewJ5pM5ReXkaNB139)     
 **Time:** Doors open at 5:30 p.m.; Presentations start at 6:00 p.m.    
