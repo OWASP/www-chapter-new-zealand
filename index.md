@@ -46,13 +46,13 @@ The Survey Report is Copyright &copy; OWASP Foundation, Inc., 2023, and is publi
 
 -------------
 
-#### Tuesday, 19 November: [Auckland Meetup](https://www.meetup.com/owasp-new-zealand-chapter-auckland/events/297786381) 
+#### Tuesday, 10 March: Auckland Meetup 
 
 **Host:** Austin Chamberlain    
-**Top Ten 2021 Topic:** A05:2021 - Security Misconfiguration    
-**Technical Presentation:** TBC   
-**Location:** The Corner Store, 25 Mount Eden Road [Google Maps](https://www.google.com/maps/place/The+Corner+Store/@-36.8657037,174.7583494,17z/data=!3m1!4b1!4m6!3m5!1s0x6d0d47c362b99f6f:0xd95014f14fe26b94!8m2!3d-36.865708!4d174.7609297!16s%2Fg%2F1tdy97hj?entry=ttu)     
-**Time:** Doors open at 6:00 p.m.; Presentations start at 6:30 p.m.    
+**Top Ten Topic:** OWASP Top Ten for Agentic Applications, OWASP Top Ten for LLM Applications
+**Technical Presentation:** None this time!
+**Location:** LightSpeed HQ, 2 Nuffield Street, Newmarket [Google Maps](https://maps.app.goo.gl/ewJ5pM5ReXkaNB139)     
+**Time:** Doors open at 5:30 p.m.; Presentations start at 6:00 p.m.    
 
 -------------
 
