@@ -1,0 +1,38 @@
+community:
+  - name: chapter-newzealand
+    platform: slack
+    url: https://owasp.slack.com/archives/C6ELQMRTR
+    description: OWASP New Zealand
+currency: NZD
+leaders:
+  - name: Austin Chamberlain
+    email: austin.chamberlain@owasp.org
+  - name: Kim Carter
+    email: kim.carter@owasp.org
+    github: binarymist
+  - name: Pete Nicholls
+    email: pete.nicholls@owasp.org
+  - name: John DiLeo
+    email: john.dileo@owasp.org
+    github: johndileo
+  - name: Matt Cotterell
+    email: matt.cotterell@owasp.org
+  - name: Kirk Jackson
+    email: kirk.jackson@owasp.org
+    github: kirk-owasp
+location:
+  country: New Zealand
+  country_code: NZ
+  region: Oceania
+  latitude: -41.5000831
+  longitude: 172.8344077
+name: OWASP New Zealand
+repositories:
+  - name: www-chapter-new-zealand
+    url: https://github.com/OWASP/www-chapter-new-zealand
+    description: OWASP Foundation Web Repository
+tags:
+  - owaspnz
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-new-zealand
